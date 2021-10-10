@@ -1,0 +1,6228 @@
+Container contains 1202 elements.
+It is objective language: Have type = strict
+. Popularity = 29.130000
+. Year = 1961
+. Lazy = 1
+. Parameter = 25.802632
+
+It is objective language: Have type = strict
+. Popularity = 99.600000
+. Year = 1912
+. Lazy = 1
+. Parameter = 147.076923
+
+It is objective language: Have type = dinamic
+. Popularity = 21.890000
+. Year = 1947
+. Lazy = 1
+. Parameter = 121.687500
+
+It is objective language: Have type = strict
+. Popularity = 72.540000
+. Year = 1993
+. Lazy = 3
+. Parameter = 48.609756
+
+It is objective language: Have type = strict
+. Popularity = 47.790000
+. Year = 1995
+. Lazy = 0
+. Parameter = 62.343750
+
+It is objective language: Have type = strict
+. Popularity = 53.400000
+. Year = 2019
+. Lazy = 1
+. Parameter = 24.621951
+
+It is objective language: Have type = many
+. Popularity = 39.670000
+. Year = 1957
+. Parameter = 23.865854
+
+It is objective language: Have type = strict
+. Popularity = 25.510000
+. Year = 1990
+. Lazy = 1
+. Parameter = 23.411765
+
+It is objective language: Have type = dinamic
+. Popularity = 2.900000
+. Year = 2009
+. Lazy = 0
+. Parameter = 20.090000
+
+It is objective language: Have type = strict
+. Popularity = 32.570000
+. Year = 1936
+. Lazy = 0
+. Parameter = 38.720000
+
+It is objective language: Have type = dinamic
+. Popularity = 68.340000
+. Year = 1955
+. Lazy = 0
+. Parameter = 115.000000
+
+It is Procedure language: Have abstract type 0
+. Popularity = 54.000000
+. Year = 2018
+. Parameter = 32.031746
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 22.550000
+. Year = 2005
+. Parameter = 24.753086
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 57.280000
+. Year = 1931
+. Parameter = 60.343750
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = interface
+. Popularity = 69.620000
+. Year = 1964
+. Parameter = 28.463768
+
+It is objective language: Have type = many
+. Popularity = 0.970000
+. Year = 1968
+. Parameter = 48.000000
+
+It is Procedure language: Have abstract type 1
+. Popularity = 98.670000
+. Year = 2021
+. Parameter = 37.425926
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 18.340000
+. Year = 1935
+. Parameter = 35.833333
+It is objective language: Have type = dinamic
+. Popularity = 5.100000
+. Year = 1932
+. Lazy = 1
+. Parameter = 96.600000
+
+It is objective language: Have type = strict
+. Popularity = 80.600000
+. Year = 1989
+. Lazy = 3
+. Parameter = 32.080645
+
+It is objective language: Have type = dinamic
+. Popularity = 5.580000
+. Year = 2008
+. Lazy = 1
+. Parameter = 29.529412
+
+It is objective language: Have type = strict
+. Popularity = 52.690000
+. Year = 1947
+. Lazy = 0
+. Parameter = 97.350000
+
+It is objective language: Have type = strict
+. Popularity = 20.440000
+. Year = 1920
+. Lazy = 1
+. Parameter = 29.538462
+
+It is objective language: Have type = one
+. Popularity = 63.270000
+. Year = 1989
+. Parameter = 82.875000
+
+It is objective language: Have type = strict
+. Popularity = 80.650000
+. Year = 1994
+. Lazy = 1
+. Parameter = 43.347826
+
+It is objective language: Have type = dinamic
+. Popularity = 85.510000
+. Year = 1994
+. Lazy = 1
+. Parameter = 20.346939
+
+It is objective language: Have type = many
+. Popularity = 99.260000
+. Year = 1912
+. Parameter = 91.047619
+
+It is objective language: Have type = interface
+. Popularity = 42.040000
+. Year = 1985
+. Parameter = 39.700000
+
+It is Procedure language: Have abstract type 0
+. Popularity = 60.460000
+. Year = 2008
+. Parameter = 118.117647
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 45.180000
+. Year = 1997
+. Parameter = 24.353659
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 34.180000
+. Year = 1998
+. Parameter = 28.542857
+
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 88.710000
+. Year = 1946
+. Parameter = 139.000000
+
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = interface
+. Popularity = 1.790000
+. Year = 2008
+. Parameter = 143.428571
+
+It is objective language: Have type = many
+. Popularity = 18.510000
+. Year = 1956
+. Parameter = 23.011765
+
+It is objective language: Have type = many
+. Popularity = 40.160000
+. Year = 1972
+. Parameter = 219.111111
+
+It is objective language: Have type = one
+. Popularity = 76.130000
+. Year = 2012
+. Parameter = 24.240964
+
+It is objective language: Have type = strict
+. Popularity = 72.880000
+. Year = 1964
+. Lazy = 1
+. Parameter = 37.056604
+
+It is objective language: Have type = dinamic
+. Popularity = 42.660000
+. Year = 1947
+. Lazy = 0
+. Parameter = 25.285714
+
+It is objective language: Have type = dinamic
+. Popularity = 95.290000
+. Year = 1999
+. Lazy = 1
+. Parameter = 20.822917
+
+It is objective language: Have type = strict
+. Popularity = 92.680000
+. Year = 1991
+. Lazy = 1
+. Parameter = 37.566038
+
+It is objective language: Have type = dinamic
+. Popularity = 31.470000
+. Year = 1941
+. Lazy = 0
+. Parameter = 149.307692
+
+It is objective language: Have type = dinamic
+. Popularity = 29.070000
+. Year = 2004
+. Lazy = 3
+. Parameter = 27.081081
+
+It is objective language: Have type = strict
+. Popularity = 98.130000
+. Year = 1930
+. Lazy = 3
+. Parameter = 21.685393
+
+It is objective language: Have type = strict
+. Popularity = 75.890000
+. Year = 1917
+. Lazy = 0
+. Parameter = 21.784091
+
+It is objective language: Have type = one
+. Popularity = 14.020000
+. Year = 1904
+. Parameter = 47.600000
+
+It is objective language: Have type = dinamic
+. Popularity = 98.590000
+. Year = 1956
+. Lazy = 1
+. Parameter = 67.448276
+
+It is objective language: Have type = strict
+. Popularity = 96.490000
+. Year = 1952
+. Lazy = 1
+. Parameter = 34.245614
+
+It is objective language: Have type = dinamic
+. Popularity = 2.550000
+. Year = 1942
+. Lazy = 1
+. Parameter = 32.915254
+
+It is objective language: Have type = strict
+. Popularity = 36.290000
+. Year = 2016
+. Lazy = 1
+. Parameter = 26.526316
+
+It is objective language: Have type = strict
+. Popularity = 57.780000
+. Year = 1965
+. Lazy = 1
+. Parameter = 491.250000
+
+It is objective language: Have type = strict
+. Popularity = 27.490000
+. Year = 1930
+. Lazy = 1
+. Parameter = 21.685393
+
+It is objective language: Have type = dinamic
+. Popularity = 1.470000
+. Year = 1966
+. Lazy = 0
+. Parameter = 89.363636
+
+It is objective language: Have type = many
+. Popularity = 52.120000
+. Year = 1985
+. Parameter = 34.224138
+
+It is objective language: Have type = many
+. Popularity = 57.200000
+. Year = 1917
+. Parameter = 20.393617
+
+It is objective language: Have type = strict
+. Popularity = 81.450000
+. Year = 1981
+. Lazy = 0
+. Parameter = 90.045455
+
+It is objective language: Have type = dinamic
+. Popularity = 48.890000
+. Year = 1921
+. Lazy = 0
+. Parameter = 71.148148
+
+It is objective language: Have type = one
+. Popularity = 16.450000
+. Year = 2018
+. Parameter = 28.422535
+
+It is Procedure language: Have abstract type 1
+. Popularity = 69.300000
+. Year = 1902
+. Parameter = 105.666667
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 65.330000
+. Year = 1923
+. Parameter = 32.050000
+
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 89.020000
+. Year = 1906
+. Parameter = 24.435897
+
+It is objective language: Have type = one
+. Popularity = 20.690000
+. Year = 1959
+. Parameter = 46.642857
+
+It is objective language: Have type = strict
+. Popularity = 62.110000
+. Year = 1951
+. Lazy = 1
+. Parameter = 102.684211
+
+It is objective language: Have type = strict
+. Popularity = 0.030000
+. Year = 1945
+. Lazy = 1
+. Parameter = 102.368421
+
+It is objective language: Have type = dinamic
+. Popularity = 64.320000
+. Year = 1990
+. Lazy = 1
+. Parameter = 23.411765
+
+It is objective language: Have type = strict
+. Popularity = 13.370000
+. Year = 1915
+. Lazy = 1
+. Parameter = 957.500000
+
+It is objective language: Have type = strict
+. Popularity = 21.720000
+. Year = 1936
+. Lazy = 0
+. Parameter = 35.200000
+
+It is objective language: Have type = strict
+. Popularity = 8.000000
+. Year = 1977
+. Lazy = 1
+. Parameter = 76.038462
+
+It is objective language: Have type = strict
+. Popularity = 33.740000
+. Year = 1915
+. Lazy = 1
+. Parameter = 63.833333
+
+It is objective language: Have type = strict
+. Popularity = 57.340000
+. Year = 1954
+. Lazy = 0
+. Parameter = 22.204545
+
+It is Procedure language: Have abstract type 1
+. Popularity = 86.630000
+. Year = 2002
+. Parameter = 26.693333
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 51.350000
+. Year = 1947
+. Parameter = 149.769231
+It is objective language: Have type = interface
+. Popularity = 63.130000
+. Year = 1983
+. Parameter = 495.750000
+
+It is objective language: Have type = dinamic
+. Popularity = 22.210000
+. Year = 1967
+. Lazy = 0
+. Parameter = 28.926471
+
+It is objective language: Have type = dinamic
+. Popularity = 94.740000
+. Year = 1994
+. Lazy = 1
+. Parameter = 26.236842
+
+It is objective language: Have type = strict
+. Popularity = 13.710000
+. Year = 1902
+. Lazy = 3
+. Parameter = 32.237288
+
+It is objective language: Have type = dinamic
+. Popularity = 67.400000
+. Year = 1918
+. Lazy = 1
+. Parameter = 40.808511
+
+It is objective language: Have type = strict
+. Popularity = 52.150000
+. Year = 1976
+. Lazy = 2
+. Parameter = 24.395062
+
+It is objective language: Have type = dinamic
+. Popularity = 77.430000
+. Year = 1909
+. Lazy = 1
+. Parameter = 119.312500
+
+It is objective language: Have type = strict
+. Popularity = 63.530000
+. Year = 1981
+. Lazy = 3
+. Parameter = 22.011111
+
+It is objective language: Have type = dinamic
+. Popularity = 98.360000
+. Year = 2005
+. Lazy = 0
+. Parameter = 31.328125
+
+It is objective language: Have type = many
+. Popularity = 99.280000
+. Year = 1906
+. Parameter = 21.177778
+
+It is Procedure language: Have abstract type 1
+. Popularity = 84.040000
+. Year = 1911
+. Parameter = 21.715909
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = many
+. Popularity = 59.120000
+. Year = 1945
+. Parameter = 47.439024
+
+It is Procedure language: Have abstract type 1
+. Popularity = 47.140000
+. Year = 1930
+. Parameter = 87.727273
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 3
+. Popularity = 58.260000
+. Year = 1973
+. Parameter = 197.300000
+It is objective language: Have type = one
+. Popularity = 2.630000
+. Year = 2012
+. Parameter = 60.969697
+
+It is objective language: Have type = strict
+. Popularity = 95.880000
+. Year = 1924
+. Lazy = 1
+. Parameter = 96.200000
+
+It is objective language: Have type = strict
+. Popularity = 50.410000
+. Year = 1971
+. Lazy = 1
+. Parameter = 657.000000
+
+It is objective language: Have type = strict
+. Popularity = 16.360000
+. Year = 1921
+. Lazy = 0
+. Parameter = 27.442857
+
+It is Procedure language: Have abstract type 1
+. Popularity = 62.970000
+. Year = 1900
+. Parameter = 38.000000
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = interface
+. Popularity = 77.480000
+. Year = 1946
+. Parameter = 97.300000
+
+It is objective language: Have type = interface
+. Popularity = 93.520000
+. Year = 1940
+. Parameter = 35.272727
+
+It is objective language: Have type = interface
+. Popularity = 41.030000
+. Year = 1982
+. Parameter = 50.820513
+
+It is Procedure language: Have abstract type 1
+. Popularity = 25.780000
+. Year = 1943
+. Parameter = 19.626263
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = many
+. Popularity = 22.180000
+. Year = 1948
+. Parameter = 324.666667
+
+It is Procedure language: Have abstract type 0
+. Popularity = 88.170000
+. Year = 1975
+. Parameter = 493.750000
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 65.100000
+. Year = 1931
+. Parameter = 482.750000
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 66.690000
+. Year = 1955
+. Parameter = 26.780822
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 74.040000
+. Year = 2016
+. Parameter = 29.217391
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 83.680000
+. Year = 1982
+. Parameter = 53.567568
+
+It is objective language: Have type = dinamic
+. Popularity = 32.790000
+. Year = 2021
+. Lazy = 1
+. Parameter = 23.500000
+
+It is objective language: Have type = strict
+. Popularity = 69.950000
+. Year = 1901
+. Lazy = 1
+. Parameter = 79.208333
+
+It is objective language: Have type = strict
+. Popularity = 22.600000
+. Year = 1956
+. Lazy = 0
+. Parameter = 44.454545
+
+It is objective language: Have type = many
+. Popularity = 92.820000
+. Year = 1971
+. Parameter = 67.965517
+
+It is Procedure language: Have abstract type 0
+. Popularity = 94.190000
+. Year = 1963
+. Parameter = 23.094118
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 14.510000
+. Year = 2000
+. Parameter = 30.303030
+It is objective language: Have type = dinamic
+. Popularity = 68.330000
+. Year = 2007
+. Lazy = 0
+. Parameter = 24.475610
+
+It is objective language: Have type = dinamic
+. Popularity = 30.560000
+. Year = 1979
+. Lazy = 1
+. Parameter = 21.988889
+
+It is objective language: Have type = strict
+. Popularity = 75.000000
+. Year = 1972
+. Lazy = 2
+. Parameter = 24.345679
+
+It is objective language: Have type = dinamic
+. Popularity = 51.410000
+. Year = 1998
+. Lazy = 0
+. Parameter = 24.072289
+
+It is objective language: Have type = dinamic
+. Popularity = 88.340000
+. Year = 1978
+. Lazy = 2
+. Parameter = 494.500000
+
+It is objective language: Have type = strict
+. Popularity = 38.620000
+. Year = 2008
+. Lazy = 2
+. Parameter = 24.487805
+
+It is objective language: Have type = dinamic
+. Popularity = 65.060000
+. Year = 1940
+. Lazy = 0
+. Parameter = 242.500000
+
+It is objective language: Have type = dinamic
+. Popularity = 15.750000
+. Year = 1916
+. Lazy = 1
+. Parameter = 36.150943
+
+It is objective language: Have type = strict
+. Popularity = 15.080000
+. Year = 1920
+. Lazy = 1
+. Parameter = 19.793814
+
+It is objective language: Have type = dinamic
+. Popularity = 73.770000
+. Year = 1938
+. Lazy = 1
+. Parameter = 69.214286
+
+It is objective language: Have type = strict
+. Popularity = 37.250000
+. Year = 1970
+. Lazy = 3
+. Parameter = 30.307692
+
+It is objective language: Have type = dinamic
+. Popularity = 15.450000
+. Year = 1937
+. Lazy = 1
+. Parameter = 84.217391
+
+It is Procedure language: Have abstract type 0
+. Popularity = 41.300000
+. Year = 1984
+. Parameter = 86.260870
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 8.150000
+. Year = 1954
+. Parameter = 37.576923
+It is objective language: Have type = dinamic
+. Popularity = 38.390000
+. Year = 1905
+. Lazy = 1
+. Parameter = 76.200000
+
+It is objective language: Have type = strict
+. Popularity = 80.920000
+. Year = 2006
+. Lazy = 3
+. Parameter = 27.108108
+
+It is objective language: Have type = strict
+. Popularity = 80.720000
+. Year = 2011
+. Lazy = 1
+. Parameter = 100.550000
+
+It is objective language: Have type = strict
+. Popularity = 76.160000
+. Year = 1967
+. Lazy = 0
+. Parameter = 103.526316
+
+It is Procedure language: Have abstract type 1
+. Popularity = 9.100000
+. Year = 1906
+. Parameter = 82.869565
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 79.540000
+. Year = 2018
+. Parameter = 87.739130
+It is Procedure language: Have abstract type 1
+. Popularity = 65.610000
+. Year = 1960
+. Parameter = 103.157895
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 69.600000
+. Year = 1936
+. Parameter = 47.219512
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 69.100000
+. Year = 1967
+. Parameter = 21.855556
+
+It is objective language: Have type = interface
+. Popularity = 44.340000
+. Year = 2018
+. Parameter = 72.071429
+
+It is objective language: Have type = interface
+. Popularity = 67.000000
+. Year = 1937
+. Parameter = 52.351351
+
+It is objective language: Have type = strict
+. Popularity = 61.730000
+. Year = 1970
+. Lazy = 1
+. Parameter = 22.134831
+
+It is objective language: Have type = strict
+. Popularity = 71.530000
+. Year = 1910
+. Lazy = 0
+. Parameter = 26.164384
+
+It is objective language: Have type = strict
+. Popularity = 97.090000
+. Year = 1907
+. Lazy = 0
+. Parameter = 47.675000
+
+It is objective language: Have type = one
+. Popularity = 22.040000
+. Year = 1985
+. Parameter = 330.833333
+
+It is objective language: Have type = dinamic
+. Popularity = 34.760000
+. Year = 2013
+. Lazy = 0
+. Parameter = 51.615385
+
+It is objective language: Have type = dinamic
+. Popularity = 37.530000
+. Year = 1975
+. Lazy = 1
+. Parameter = 21.703297
+
+It is objective language: Have type = strict
+. Popularity = 35.060000
+. Year = 1936
+. Lazy = 3
+. Parameter = 32.813559
+
+It is objective language: Have type = strict
+. Popularity = 41.730000
+. Year = 1994
+. Lazy = 1
+. Parameter = 132.933333
+
+It is objective language: Have type = strict
+. Popularity = 91.810000
+. Year = 1978
+. Lazy = 1
+. Parameter = 29.088235
+
+It is Procedure language: Have abstract type 1
+. Popularity = 78.430000
+. Year = 1936
+. Parameter = 19.360000
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 33.220000
+. Year = 1972
+. Parameter = 46.952381
+It is objective language: Have type = many
+. Popularity = 11.410000
+. Year = 1900
+. Parameter = 111.764706
+
+It is Procedure language: Have abstract type 0
+. Popularity = 59.090000
+. Year = 1923
+. Parameter = 22.892857
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = many
+. Popularity = 44.850000
+. Year = 1926
+. Parameter = 137.571429
+
+It is objective language: Have type = dinamic
+. Popularity = 63.940000
+. Year = 1945
+. Lazy = 0
+. Parameter = 19.646465
+
+It is objective language: Have type = strict
+. Popularity = 68.680000
+. Year = 1966
+. Lazy = 1
+. Parameter = 23.404762
+
+It is objective language: Have type = strict
+. Popularity = 93.450000
+. Year = 1984
+. Lazy = 0
+. Parameter = 28.753623
+
+It is objective language: Have type = strict
+. Popularity = 50.670000
+. Year = 1986
+. Lazy = 0
+. Parameter = 40.530612
+
+It is Procedure language: Have abstract type 0
+. Popularity = 36.700000
+. Year = 1995
+. Parameter = 99.750000
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 3
+. Popularity = 89.450000
+. Year = 2015
+. Parameter = 67.166667
+It is objective language: Have type = one
+. Popularity = 79.800000
+. Year = 1993
+. Parameter = 664.333333
+
+It is Procedure language: Have abstract type 0
+. Popularity = 15.590000
+. Year = 1915
+. Parameter = 42.555556
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 3.240000
+. Year = 1904
+. Parameter = 26.816901
+It is Procedure language: Have abstract type 0
+. Popularity = 82.320000
+. Year = 1972
+. Parameter = 26.648649
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 79.930000
+. Year = 2006
+. Parameter = 62.687500
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 65.840000
+. Year = 1915
+. Parameter = 383.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 2
+. Popularity = 58.390000
+. Year = 1915
+. Parameter = 87.045455
+It is objective language: Have type = strict
+. Popularity = 74.630000
+. Year = 2015
+. Lazy = 0
+. Parameter = 34.152542
+
+It is objective language: Have type = strict
+. Popularity = 10.330000
+. Year = 1933
+. Lazy = 1
+. Parameter = 80.541667
+
+It is objective language: Have type = dinamic
+. Popularity = 15.980000
+. Year = 1953
+. Lazy = 1
+. Parameter = 26.391892
+
+It is objective language: Have type = many
+. Popularity = 52.160000
+. Year = 1954
+. Parameter = 32.566667
+
+It is Procedure language: Have abstract type 1
+. Popularity = 63.820000
+. Year = 1929
+. Parameter = 21.433333
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 32.400000
+. Year = 2005
+. Parameter = 35.175439
+It is objective language: Have type = interface
+. Popularity = 3.250000
+. Year = 2002
+. Parameter = 47.666667
+
+It is Procedure language: Have abstract type 1
+. Popularity = 37.670000
+. Year = 1905
+. Parameter = 19.242424
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 56.240000
+. Year = 1990
+. Parameter = 24.567901
+It is objective language: Have type = interface
+. Popularity = 38.440000
+. Year = 1949
+. Parameter = 129.933333
+
+It is objective language: Have type = strict
+. Popularity = 76.380000
+. Year = 1993
+. Lazy = 0
+. Parameter = 181.181818
+
+It is objective language: Have type = strict
+. Popularity = 65.750000
+. Year = 1943
+. Lazy = 1
+. Parameter = 23.130952
+
+It is objective language: Have type = dinamic
+. Popularity = 32.890000
+. Year = 1947
+. Lazy = 1
+. Parameter = 139.071429
+
+It is objective language: Have type = many
+. Popularity = 49.320000
+. Year = 1984
+. Parameter = 992.000000
+
+It is objective language: Have type = many
+. Popularity = 16.790000
+. Year = 2000
+. Parameter = 21.739130
+
+It is objective language: Have type = interface
+. Popularity = 44.690000
+. Year = 1977
+. Parameter = 94.142857
+
+It is Procedure language: Have abstract type 0
+. Popularity = 66.460000
+. Year = 1985
+. Parameter = 20.255102
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 86.670000
+. Year = 1924
+. Parameter = 54.971429
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 47.560000
+. Year = 1955
+. Parameter = 150.384615
+It is objective language: Have type = one
+. Popularity = 23.420000
+. Year = 1925
+. Parameter = 33.771930
+
+It is objective language: Have type = many
+. Popularity = 53.400000
+. Year = 1920
+. Parameter = 20.000000
+
+It is objective language: Have type = one
+. Popularity = 3.990000
+. Year = 1930
+. Parameter = 20.978261
+
+It is objective language: Have type = interface
+. Popularity = 29.010000
+. Year = 1983
+. Parameter = 35.410714
+
+It is objective language: Have type = dinamic
+. Popularity = 92.510000
+. Year = 2015
+. Lazy = 0
+. Parameter = 51.666667
+
+It is objective language: Have type = strict
+. Popularity = 6.470000
+. Year = 1972
+. Lazy = 1
+. Parameter = 30.338462
+
+It is objective language: Have type = strict
+. Popularity = 34.180000
+. Year = 1947
+. Lazy = 0
+. Parameter = 139.071429
+
+It is objective language: Have type = strict
+. Popularity = 2.500000
+. Year = 1945
+. Lazy = 1
+. Parameter = 31.885246
+
+It is objective language: Have type = strict
+. Popularity = 44.070000
+. Year = 1985
+. Lazy = 1
+. Parameter = 20.677083
+
+It is objective language: Have type = strict
+. Popularity = 83.120000
+. Year = 2001
+. Lazy = 1
+. Parameter = 667.000000
+
+It is objective language: Have type = strict
+. Popularity = 36.970000
+. Year = 1928
+. Lazy = 0
+. Parameter = 41.021277
+
+It is objective language: Have type = dinamic
+. Popularity = 75.730000
+. Year = 1907
+. Lazy = 1
+. Parameter = 61.516129
+
+It is objective language: Have type = dinamic
+. Popularity = 86.680000
+. Year = 1936
+. Lazy = 1
+. Parameter = 29.333333
+
+It is objective language: Have type = dinamic
+. Popularity = 11.410000
+. Year = 1942
+. Lazy = 1
+. Parameter = 215.777778
+
+It is objective language: Have type = strict
+. Popularity = 36.870000
+. Year = 1954
+. Lazy = 1
+. Parameter = 27.914286
+
+It is objective language: Have type = strict
+. Popularity = 14.860000
+. Year = 2002
+. Lazy = 0
+. Parameter = 36.400000
+
+It is Procedure language: Have abstract type 0
+. Popularity = 18.980000
+. Year = 1968
+. Parameter = 22.112360
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 66.610000
+. Year = 1980
+. Parameter = 58.235294
+
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 51.750000
+. Year = 1941
+. Parameter = 970.500000
+It is objective language: Have type = strict
+. Popularity = 7.520000
+. Year = 1910
+. Lazy = 0
+. Parameter = 173.636364
+
+It is objective language: Have type = strict
+. Popularity = 42.570000
+. Year = 1927
+. Lazy = 0
+. Parameter = 41.891304
+
+It is objective language: Have type = many
+. Popularity = 37.850000
+. Year = 1957
+. Parameter = 47.731707
+
+It is objective language: Have type = dinamic
+. Popularity = 56.680000
+. Year = 1971
+. Lazy = 0
+. Parameter = 36.500000
+
+It is objective language: Have type = dinamic
+. Popularity = 96.180000
+. Year = 2019
+. Lazy = 1
+. Parameter = 22.433333
+
+It is objective language: Have type = strict
+. Popularity = 60.350000
+. Year = 1975
+. Lazy = 1
+. Parameter = 36.574074
+
+It is objective language: Have type = dinamic
+. Popularity = 75.420000
+. Year = 2006
+. Lazy = 1
+. Parameter = 35.821429
+
+It is Procedure language: Have abstract type 0
+. Popularity = 42.290000
+. Year = 1924
+. Parameter = 240.500000
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 18.590000
+. Year = 1962
+. Parameter = 150.923077
+It is objective language: Have type = interface
+. Popularity = 98.060000
+. Year = 1946
+. Parameter = 38.156863
+
+It is objective language: Have type = many
+. Popularity = 43.530000
+. Year = 1995
+. Parameter = 1995.000000
+
+It is objective language: Have type = dinamic
+. Popularity = 86.700000
+. Year = 1900
+. Lazy = 1
+. Parameter = 90.476190
+
+It is objective language: Have type = strict
+. Popularity = 36.520000
+. Year = 1904
+. Lazy = 1
+. Parameter = 19.232323
+
+It is objective language: Have type = strict
+. Popularity = 71.540000
+. Year = 2017
+. Lazy = 1
+. Parameter = 29.231884
+
+It is objective language: Have type = strict
+. Popularity = 39.060000
+. Year = 1903
+. Lazy = 1
+. Parameter = 28.833333
+
+It is objective language: Have type = many
+. Popularity = 81.960000
+. Year = 1951
+. Parameter = 30.484375
+
+It is Procedure language: Have abstract type 0
+. Popularity = 52.190000
+. Year = 1997
+. Parameter = 166.416667
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 50.030000
+. Year = 1911
+. Parameter = 45.500000
+
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 61.210000
+. Year = 1902
+. Parameter = 55.941176
+It is objective language: Have type = many
+. Popularity = 50.800000
+. Year = 1979
+. Parameter = 70.678571
+
+It is objective language: Have type = many
+. Popularity = 24.780000
+. Year = 1925
+. Parameter = 19.845361
+
+It is objective language: Have type = strict
+. Popularity = 68.990000
+. Year = 1928
+. Lazy = 1
+. Parameter = 42.844444
+
+It is objective language: Have type = dinamic
+. Popularity = 29.090000
+. Year = 1989
+. Lazy = 0
+. Parameter = 26.520000
+
+It is objective language: Have type = one
+. Popularity = 7.770000
+. Year = 2012
+. Parameter = 67.066667
+
+It is Procedure language: Have abstract type 1
+. Popularity = 71.230000
+. Year = 1938
+. Parameter = 35.236364
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 19.290000
+. Year = 1972
+. Parameter = 123.250000
+
+It is Procedure language: Have abstract type 1
+. Popularity = 1.130000
+. Year = 1942
+. Parameter = 176.545455
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 14.430000
+. Year = 1917
+. Parameter = 32.491525
+
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 3
+. Popularity = 48.870000
+. Year = 1951
+. Parameter = 24.086420
+It is objective language: Have type = strict
+. Popularity = 34.900000
+. Year = 1975
+. Lazy = 1
+. Parameter = 20.572917
+
+It is objective language: Have type = dinamic
+. Popularity = 85.420000
+. Year = 1970
+. Lazy = 0
+. Parameter = 56.285714
+
+It is objective language: Have type = many
+. Popularity = 58.420000
+. Year = 2010
+. Parameter = 28.714286
+
+It is Procedure language: Have abstract type 1
+. Popularity = 28.160000
+. Year = 1971
+. Parameter = 1971.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 3
+. Popularity = 22.430000
+. Year = 1979
+. Parameter = 116.411765
+It is objective language: Have type = many
+. Popularity = 76.210000
+. Year = 1987
+. Parameter = 20.915789
+
+It is objective language: Have type = one
+. Popularity = 69.030000
+. Year = 1946
+. Parameter = 88.454545
+
+It is objective language: Have type = dinamic
+. Popularity = 36.560000
+. Year = 1931
+. Lazy = 1
+. Parameter = 32.728814
+
+It is objective language: Have type = strict
+. Popularity = 37.110000
+. Year = 1945
+. Lazy = 1
+. Parameter = 51.184211
+
+It is objective language: Have type = dinamic
+. Popularity = 2.150000
+. Year = 2001
+. Lazy = 0
+. Parameter = 47.642857
+
+It is Procedure language: Have abstract type 0
+. Popularity = 71.020000
+. Year = 2011
+. Parameter = 31.920635
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 40.250000
+. Year = 1937
+. Parameter = 43.044444
+
+It is objective language: Have type = one
+. Popularity = 1.750000
+. Year = 1900
+. Parameter = 33.333333
+
+It is Procedure language: Have abstract type 1
+. Popularity = 89.030000
+. Year = 2020
+. Parameter = 20.200000
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 66.720000
+. Year = 1948
+. Parameter = 102.526316
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 25.200000
+. Year = 1927
+. Parameter = 20.500000
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 66.100000
+. Year = 1914
+. Parameter = 31.377049
+
+It is objective language: Have type = one
+. Popularity = 50.080000
+. Year = 1921
+. Parameter = 113.000000
+
+It is objective language: Have type = dinamic
+. Popularity = 74.780000
+. Year = 1936
+. Lazy = 1
+. Parameter = 27.657143
+
+It is objective language: Have type = dinamic
+. Popularity = 47.150000
+. Year = 1973
+. Lazy = 2
+. Parameter = 1973.000000
+
+It is objective language: Have type = strict
+. Popularity = 78.700000
+. Year = 1911
+. Lazy = 1
+. Parameter = 61.645161
+
+It is objective language: Have type = strict
+. Popularity = 18.980000
+. Year = 1973
+. Lazy = 1
+. Parameter = 23.211765
+
+It is objective language: Have type = dinamic
+. Popularity = 34.180000
+. Year = 1921
+. Lazy = 0
+. Parameter = 36.942308
+
+It is objective language: Have type = strict
+. Popularity = 99.850000
+. Year = 1958
+. Lazy = 3
+. Parameter = 78.320000
+
+It is objective language: Have type = dinamic
+. Popularity = 45.550000
+. Year = 1944
+. Lazy = 0
+. Parameter = 114.352941
+
+It is objective language: Have type = interface
+. Popularity = 77.070000
+. Year = 1907
+. Parameter = 57.787879
+
+It is Procedure language: Have abstract type 0
+. Popularity = 98.820000
+. Year = 1918
+. Parameter = 31.442623
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 64.370000
+. Year = 2002
+. Parameter = 27.424658
+
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = interface
+. Popularity = 50.940000
+. Year = 1996
+. Parameter = 99.800000
+
+It is Procedure language: Have abstract type 1
+. Popularity = 98.180000
+. Year = 1970
+. Parameter = 32.295082
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 3
+. Popularity = 32.740000
+. Year = 1971
+. Parameter = 21.423913
+It is objective language: Have type = many
+. Popularity = 11.010000
+. Year = 1998
+. Parameter = 285.428571
+
+It is objective language: Have type = dinamic
+. Popularity = 26.310000
+. Year = 1949
+. Lazy = 1
+. Parameter = 324.833333
+
+It is objective language: Have type = strict
+. Popularity = 55.690000
+. Year = 1931
+. Lazy = 1
+. Parameter = 32.728814
+
+It is objective language: Have type = dinamic
+. Popularity = 59.360000
+. Year = 1966
+. Lazy = 1
+. Parameter = 28.492754
+
+It is objective language: Have type = strict
+. Popularity = 85.660000
+. Year = 1961
+. Lazy = 3
+. Parameter = 41.723404
+
+It is objective language: Have type = strict
+. Popularity = 42.450000
+. Year = 1986
+. Lazy = 1
+. Parameter = 30.090909
+
+It is objective language: Have type = interface
+. Popularity = 3.540000
+. Year = 1970
+. Parameter = 49.250000
+
+It is Procedure language: Have abstract type 0
+. Popularity = 47.090000
+. Year = 1994
+. Parameter = 40.693878
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = many
+. Popularity = 54.600000
+. Year = 1942
+. Parameter = 21.577778
+
+It is Procedure language: Have abstract type 0
+. Popularity = 30.440000
+. Year = 1976
+. Parameter = 1976.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 20.400000
+. Year = 1947
+. Parameter = 20.712766
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 78.830000
+. Year = 1928
+. Parameter = 20.510638
+It is Procedure language: Have abstract type 1
+. Popularity = 21.320000
+. Year = 1927
+. Parameter = 30.109375
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 6.640000
+. Year = 2017
+. Parameter = 38.056604
+
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 10.810000
+. Year = 1940
+. Parameter = 25.866667
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 80.910000
+. Year = 1917
+. Parameter = 22.821429
+
+It is objective language: Have type = one
+. Popularity = 71.160000
+. Year = 1931
+. Parameter = 19.505051
+
+It is objective language: Have type = strict
+. Popularity = 61.070000
+. Year = 1964
+. Lazy = 1
+. Parameter = 26.540541
+
+It is objective language: Have type = strict
+. Popularity = 17.570000
+. Year = 1931
+. Lazy = 1
+. Parameter = 42.911111
+
+It is objective language: Have type = strict
+. Popularity = 43.850000
+. Year = 1929
+. Lazy = 0
+. Parameter = 23.240964
+
+It is objective language: Have type = many
+. Popularity = 29.700000
+. Year = 1904
+. Parameter = 35.259259
+
+It is objective language: Have type = one
+. Popularity = 27.370000
+. Year = 1950
+. Parameter = 32.500000
+
+It is objective language: Have type = many
+. Popularity = 63.200000
+. Year = 1908
+. Parameter = 25.105263
+
+It is objective language: Have type = strict
+. Popularity = 38.420000
+. Year = 1988
+. Lazy = 1
+. Parameter = 28.400000
+
+It is objective language: Have type = strict
+. Popularity = 77.710000
+. Year = 1947
+. Lazy = 1
+. Parameter = 77.880000
+
+It is objective language: Have type = interface
+. Popularity = 7.130000
+. Year = 1936
+. Parameter = 47.219512
+
+It is Procedure language: Have abstract type 0
+. Popularity = 50.820000
+. Year = 2005
+. Parameter = 20.459184
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 27.640000
+. Year = 1954
+. Parameter = 39.080000
+
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 0.260000
+. Year = 1962
+. Parameter = 98.100000
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 7.890000
+. Year = 1970
+. Parameter = 30.781250
+
+It is Procedure language: Have abstract type 0
+. Popularity = 60.140000
+. Year = 1942
+. Parameter = 34.070175
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 32.170000
+. Year = 1908
+. Parameter = 26.500000
+
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 39.010000
+. Year = 1932
+. Parameter = 193.200000
+It is objective language: Have type = strict
+. Popularity = 78.200000
+. Year = 1910
+. Lazy = 1
+. Parameter = 22.470588
+
+It is objective language: Have type = dinamic
+. Popularity = 65.310000
+. Year = 1917
+. Lazy = 1
+. Parameter = 213.000000
+
+It is objective language: Have type = interface
+. Popularity = 49.770000
+. Year = 2011
+. Parameter = 167.583333
+
+It is Procedure language: Have abstract type 1
+. Popularity = 26.320000
+. Year = 2001
+. Parameter = 39.235294
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 34.670000
+. Year = 1903
+. Parameter = 25.716216
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 17.510000
+. Year = 1993
+. Parameter = 25.551282
+
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 2
+. Popularity = 55.150000
+. Year = 2013
+. Parameter = 33.550000
+It is objective language: Have type = strict
+. Popularity = 65.590000
+. Year = 2004
+. Lazy = 0
+. Parameter = 125.250000
+
+It is objective language: Have type = strict
+. Popularity = 97.700000
+. Year = 1940
+. Lazy = 0
+. Parameter = 69.285714
+
+It is objective language: Have type = strict
+. Popularity = 64.900000
+. Year = 1965
+. Lazy = 0
+. Parameter = 24.259259
+
+It is Procedure language: Have abstract type 1
+. Popularity = 16.190000
+. Year = 1951
+. Parameter = 81.291667
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 3.380000
+. Year = 1976
+. Parameter = 20.800000
+It is objective language: Have type = one
+. Popularity = 22.890000
+. Year = 1984
+. Parameter = 141.714286
+
+It is objective language: Have type = strict
+. Popularity = 33.720000
+. Year = 1936
+. Lazy = 1
+. Parameter = 84.173913
+
+It is objective language: Have type = dinamic
+. Popularity = 17.580000
+. Year = 2007
+. Lazy = 1
+. Parameter = 52.815789
+
+It is objective language: Have type = strict
+. Popularity = 26.110000
+. Year = 1990
+. Lazy = 1
+. Parameter = 28.428571
+
+It is objective language: Have type = strict
+. Popularity = 53.320000
+. Year = 1939
+. Lazy = 1
+. Parameter = 32.316667
+
+It is objective language: Have type = interface
+. Popularity = 3.750000
+. Year = 1966
+. Parameter = 151.230769
+
+It is Procedure language: Have abstract type 1
+. Popularity = 39.870000
+. Year = 1939
+. Parameter = 46.166667
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = interface
+. Popularity = 68.700000
+. Year = 1964
+. Parameter = 26.904110
+
+It is Procedure language: Have abstract type 0
+. Popularity = 64.450000
+. Year = 1953
+. Parameter = 44.386364
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 92.950000
+. Year = 1984
+. Parameter = 42.212766
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = interface
+. Popularity = 5.220000
+. Year = 1938
+. Parameter = 969.000000
+
+It is objective language: Have type = interface
+. Popularity = 29.050000
+. Year = 1949
+. Parameter = 278.428571
+
+It is objective language: Have type = interface
+. Popularity = 95.080000
+. Year = 1905
+. Parameter = 37.352941
+
+It is objective language: Have type = strict
+. Popularity = 93.910000
+. Year = 1942
+. Lazy = 1
+. Parameter = 38.078431
+
+It is objective language: Have type = strict
+. Popularity = 31.610000
+. Year = 1991
+. Lazy = 1
+. Parameter = 23.151163
+
+It is objective language: Have type = strict
+. Popularity = 74.090000
+. Year = 1998
+. Lazy = 0
+. Parameter = 24.975000
+
+It is objective language: Have type = one
+. Popularity = 70.540000
+. Year = 2015
+. Parameter = 22.640449
+
+It is Procedure language: Have abstract type 1
+. Popularity = 95.140000
+. Year = 1987
+. Parameter = 24.530864
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 20.970000
+. Year = 2006
+. Parameter = 20.262626
+It is objective language: Have type = strict
+. Popularity = 75.780000
+. Year = 1951
+. Lazy = 0
+. Parameter = 20.755319
+
+It is objective language: Have type = dinamic
+. Popularity = 68.180000
+. Year = 2010
+. Lazy = 0
+. Parameter = 67.000000
+
+It is objective language: Have type = dinamic
+. Popularity = 65.250000
+. Year = 2006
+. Lazy = 2
+. Parameter = 21.804348
+
+It is objective language: Have type = dinamic
+. Popularity = 97.820000
+. Year = 1968
+. Lazy = 1
+. Parameter = 32.800000
+
+It is objective language: Have type = dinamic
+. Popularity = 42.450000
+. Year = 1902
+. Lazy = 1
+. Parameter = 47.550000
+
+It is objective language: Have type = strict
+. Popularity = 18.480000
+. Year = 2002
+. Lazy = 2
+. Parameter = 37.074074
+
+It is objective language: Have type = strict
+. Popularity = 80.270000
+. Year = 1956
+. Lazy = 0
+. Parameter = 40.750000
+
+It is Procedure language: Have abstract type 0
+. Popularity = 45.870000
+. Year = 1905
+. Parameter = 34.636364
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 15.580000
+. Year = 1954
+. Parameter = 84.956522
+
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = interface
+. Popularity = 74.870000
+. Year = 2008
+. Parameter = 20.489796
+
+It is objective language: Have type = one
+. Popularity = 20.110000
+. Year = 1981
+. Parameter = 198.100000
+
+It is objective language: Have type = interface
+. Popularity = 21.320000
+. Year = 1947
+. Parameter = 36.055556
+
+It is objective language: Have type = one
+. Popularity = 54.180000
+. Year = 1992
+. Parameter = 110.666667
+
+It is objective language: Have type = interface
+. Popularity = 39.800000
+. Year = 2014
+. Parameter = 38.730769
+
+It is objective language: Have type = interface
+. Popularity = 69.730000
+. Year = 1900
+. Parameter = 28.787879
+
+It is Procedure language: Have abstract type 1
+. Popularity = 81.460000
+. Year = 2019
+. Parameter = 31.061538
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = interface
+. Popularity = 70.140000
+. Year = 1915
+. Parameter = 76.600000
+
+It is objective language: Have type = one
+. Popularity = 83.990000
+. Year = 1980
+. Parameter = 22.758621
+
+It is Procedure language: Have abstract type 0
+. Popularity = 44.550000
+. Year = 1912
+. Parameter = 106.222222
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 10.790000
+. Year = 2002
+. Parameter = 48.829268
+
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 80.410000
+. Year = 1976
+. Parameter = 23.807229
+It is Procedure language: Have abstract type 0
+. Popularity = 76.470000
+. Year = 1924
+. Parameter = 45.809524
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 3
+. Popularity = 84.610000
+. Year = 1913
+. Parameter = 44.488372
+It is Procedure language: Have abstract type 0
+. Popularity = 76.160000
+. Year = 1928
+. Parameter = 113.411765
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 37.640000
+. Year = 1925
+. Parameter = 30.078125
+
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 2
+. Popularity = 71.650000
+. Year = 1959
+. Parameter = 89.045455
+It is objective language: Have type = interface
+. Popularity = 94.550000
+. Year = 1999
+. Parameter = 21.728261
+
+It is objective language: Have type = dinamic
+. Popularity = 25.290000
+. Year = 1930
+. Lazy = 1
+. Parameter = 56.764706
+
+It is objective language: Have type = strict
+. Popularity = 50.920000
+. Year = 1900
+. Lazy = 1
+. Parameter = 21.839080
+
+It is objective language: Have type = strict
+. Popularity = 41.170000
+. Year = 2016
+. Lazy = 0
+. Parameter = 20.363636
+
+It is objective language: Have type = strict
+. Popularity = 59.220000
+. Year = 1985
+. Lazy = 1
+. Parameter = 26.466667
+
+It is objective language: Have type = dinamic
+. Popularity = 73.250000
+. Year = 1945
+. Lazy = 0
+. Parameter = 30.390625
+
+It is objective language: Have type = strict
+. Popularity = 43.940000
+. Year = 1997
+. Lazy = 1
+. Parameter = 64.419355
+
+It is objective language: Have type = dinamic
+. Popularity = 65.930000
+. Year = 1943
+. Lazy = 1
+. Parameter = 80.958333
+
+It is objective language: Have type = dinamic
+. Popularity = 39.830000
+. Year = 1949
+. Lazy = 2
+. Parameter = 81.208333
+
+It is objective language: Have type = strict
+. Popularity = 80.090000
+. Year = 1941
+. Lazy = 2
+. Parameter = 277.285714
+
+It is objective language: Have type = strict
+. Popularity = 77.220000
+. Year = 1933
+. Lazy = 0
+. Parameter = 53.694444
+
+It is objective language: Have type = strict
+. Popularity = 33.050000
+. Year = 2005
+. Lazy = 0
+. Parameter = 28.239437
+
+It is Procedure language: Have abstract type 0
+. Popularity = 50.460000
+. Year = 2013
+. Parameter = 20.752577
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 0.450000
+. Year = 1955
+. Parameter = 23.554217
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 18.100000
+. Year = 1916
+. Parameter = 106.444444
+It is objective language: Have type = strict
+. Popularity = 48.950000
+. Year = 1960
+. Lazy = 1
+. Parameter = 33.793103
+
+It is objective language: Have type = strict
+. Popularity = 4.680000
+. Year = 1941
+. Lazy = 0
+. Parameter = 19.606061
+
+It is objective language: Have type = strict
+. Popularity = 50.230000
+. Year = 1924
+. Lazy = 0
+. Parameter = 32.610169
+
+It is Procedure language: Have abstract type 0
+. Popularity = 36.320000
+. Year = 1982
+. Parameter = 73.407407
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 68.780000
+. Year = 1991
+. Parameter = 23.423529
+
+It is Procedure language: Have abstract type 1
+. Popularity = 50.750000
+. Year = 1999
+. Parameter = 26.653333
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 37.540000
+. Year = 1971
+. Parameter = 151.615385
+
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 96.410000
+. Year = 1973
+. Parameter = 25.960526
+It is objective language: Have type = strict
+. Popularity = 15.380000
+. Year = 1949
+. Lazy = 1
+. Parameter = 27.069444
+
+It is objective language: Have type = dinamic
+. Popularity = 35.040000
+. Year = 1904
+. Lazy = 0
+. Parameter = 26.082192
+
+It is objective language: Have type = strict
+. Popularity = 41.790000
+. Year = 1907
+. Lazy = 3
+. Parameter = 45.404762
+
+It is objective language: Have type = strict
+. Popularity = 94.000000
+. Year = 1961
+. Lazy = 0
+. Parameter = 20.216495
+
+It is objective language: Have type = dinamic
+. Popularity = 8.780000
+. Year = 2009
+. Lazy = 0
+. Parameter = 27.520548
+
+It is objective language: Have type = strict
+. Popularity = 18.630000
+. Year = 1976
+. Lazy = 0
+. Parameter = 40.326531
+
+It is objective language: Have type = dinamic
+. Popularity = 5.370000
+. Year = 1948
+. Lazy = 0
+. Parameter = 114.588235
+
+It is objective language: Have type = one
+. Popularity = 48.010000
+. Year = 1908
+. Parameter = 19.272727
+
+It is Procedure language: Have abstract type 0
+. Popularity = 8.310000
+. Year = 1934
+. Parameter = 31.193548
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 21.910000
+. Year = 2014
+. Parameter = 41.102041
+
+It is objective language: Have type = dinamic
+. Popularity = 98.550000
+. Year = 2001
+. Lazy = 0
+. Parameter = 28.183099
+
+It is objective language: Have type = strict
+. Popularity = 94.220000
+. Year = 1917
+. Lazy = 1
+. Parameter = 40.787234
+
+It is objective language: Have type = strict
+. Popularity = 69.170000
+. Year = 2015
+. Lazy = 0
+. Parameter = 41.979167
+
+It is objective language: Have type = strict
+. Popularity = 80.990000
+. Year = 1958
+. Lazy = 1
+. Parameter = 40.791667
+
+It is objective language: Have type = many
+. Popularity = 5.690000
+. Year = 2004
+. Parameter = 69.103448
+
+It is Procedure language: Have abstract type 1
+. Popularity = 27.540000
+. Year = 1944
+. Parameter = 97.200000
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 82.930000
+. Year = 2019
+. Parameter = 28.041667
+
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 3.060000
+. Year = 1907
+. Parameter = 73.346154
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 60.130000
+. Year = 1969
+. Parameter = 151.461538
+
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 60.570000
+. Year = 2018
+. Parameter = 183.454545
+It is objective language: Have type = interface
+. Popularity = 98.800000
+. Year = 1980
+. Parameter = 27.123288
+
+It is Procedure language: Have abstract type 1
+. Popularity = 30.460000
+. Year = 1956
+. Parameter = 217.333333
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 8.640000
+. Year = 1961
+. Parameter = 75.423077
+
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = many
+. Popularity = 84.730000
+. Year = 2011
+. Parameter = 52.921053
+
+It is objective language: Have type = interface
+. Popularity = 95.090000
+. Year = 2006
+. Parameter = 20.895833
+
+It is Procedure language: Have abstract type 0
+. Popularity = 30.070000
+. Year = 1997
+. Parameter = 39.156863
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 32.260000
+. Year = 1989
+. Parameter = 994.500000
+
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 58.940000
+. Year = 1982
+. Parameter = 152.461538
+
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 43.970000
+. Year = 1900
+. Parameter = 50.000000
+
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 96.950000
+. Year = 1944
+. Parameter = 29.454545
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 2
+. Popularity = 40.540000
+. Year = 2011
+. Parameter = 20.520408
+It is objective language: Have type = dinamic
+. Popularity = 95.210000
+. Year = 1938
+. Lazy = 0
+. Parameter = 77.520000
+
+It is objective language: Have type = dinamic
+. Popularity = 59.520000
+. Year = 1987
+. Lazy = 3
+. Parameter = 165.583333
+
+It is objective language: Have type = strict
+. Popularity = 3.890000
+. Year = 1917
+. Lazy = 1
+. Parameter = 36.169811
+
+It is objective language: Have type = dinamic
+. Popularity = 91.960000
+. Year = 1903
+. Lazy = 1
+. Parameter = 33.982143
+
+It is Procedure language: Have abstract type 0
+. Popularity = 16.150000
+. Year = 1929
+. Parameter = 27.557143
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 60.780000
+. Year = 1977
+. Parameter = 98.850000
+
+It is Procedure language: Have abstract type 0
+. Popularity = 67.740000
+. Year = 1909
+. Parameter = 20.978022
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 86.820000
+. Year = 1988
+. Parameter = 20.080808
+It is Procedure language: Have abstract type 0
+. Popularity = 31.960000
+. Year = 2011
+. Parameter = 20.313131
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 65.410000
+. Year = 1946
+. Parameter = 43.244444
+
+It is Procedure language: Have abstract type 1
+. Popularity = 26.350000
+. Year = 1988
+. Parameter = 50.974359
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 76.060000
+. Year = 1991
+. Parameter = 42.361702
+
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 70.200000
+. Year = 2009
+. Parameter = 66.966667
+
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 3.220000
+. Year = 2003
+. Parameter = 41.729167
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 5.950000
+. Year = 2010
+. Parameter = 38.653846
+
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 99.180000
+. Year = 1935
+. Parameter = 33.947368
+
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = interface
+. Popularity = 1.760000
+. Year = 1952
+. Parameter = 39.040000
+
+It is objective language: Have type = strict
+. Popularity = 8.200000
+. Year = 1909
+. Lazy = 1
+. Parameter = 27.271429
+
+It is objective language: Have type = dinamic
+. Popularity = 58.720000
+. Year = 2010
+. Lazy = 0
+. Parameter = 20.510204
+
+It is objective language: Have type = strict
+. Popularity = 16.470000
+. Year = 1970
+. Lazy = 3
+. Parameter = 48.048780
+
+It is objective language: Have type = strict
+. Popularity = 55.700000
+. Year = 1919
+. Lazy = 0
+. Parameter = 28.641791
+
+It is Procedure language: Have abstract type 1
+. Popularity = 16.170000
+. Year = 1917
+. Parameter = 273.857143
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 3.570000
+. Year = 1920
+. Parameter = 192.000000
+
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 60.200000
+. Year = 2019
+. Parameter = 28.436620
+
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 21.260000
+. Year = 1986
+. Parameter = 28.371429
+
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 12.300000
+. Year = 2005
+. Parameter = 83.541667
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 35.280000
+. Year = 1924
+. Parameter = 274.857143
+
+It is objective language: Have type = interface
+. Popularity = 66.150000
+. Year = 1977
+. Parameter = 22.465909
+
+It is Procedure language: Have abstract type 1
+. Popularity = 81.360000
+. Year = 1916
+. Parameter = 19.752577
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 21.550000
+. Year = 2015
+. Parameter = 25.187500
+
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = many
+. Popularity = 92.010000
+. Year = 1976
+. Parameter = 52.000000
+
+It is objective language: Have type = interface
+. Popularity = 43.290000
+. Year = 1959
+. Parameter = 20.621053
+
+It is objective language: Have type = interface
+. Popularity = 38.380000
+. Year = 2002
+. Parameter = 21.526882
+
+It is Procedure language: Have abstract type 1
+. Popularity = 31.840000
+. Year = 1910
+. Parameter = 51.621622
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 19.680000
+. Year = 2018
+. Parameter = 87.739130
+It is objective language: Have type = dinamic
+. Popularity = 98.510000
+. Year = 1956
+. Lazy = 1
+. Parameter = 32.600000
+
+It is objective language: Have type = strict
+. Popularity = 42.600000
+. Year = 1926
+. Lazy = 1
+. Parameter = 30.093750
+
+It is objective language: Have type = strict
+. Popularity = 47.060000
+. Year = 1908
+. Lazy = 0
+. Parameter = 636.000000
+
+It is objective language: Have type = dinamic
+. Popularity = 63.720000
+. Year = 1926
+. Lazy = 0
+. Parameter = 22.137931
+
+It is objective language: Have type = dinamic
+. Popularity = 20.790000
+. Year = 1992
+. Lazy = 0
+. Parameter = 25.215190
+
+It is objective language: Have type = strict
+. Popularity = 75.530000
+. Year = 2004
+. Lazy = 1
+. Parameter = 23.576471
+
+It is objective language: Have type = dinamic
+. Popularity = 68.600000
+. Year = 2005
+. Lazy = 0
+. Parameter = 51.410256
+
+It is objective language: Have type = strict
+. Popularity = 48.590000
+. Year = 1905
+. Lazy = 2
+. Parameter = 20.052632
+
+It is objective language: Have type = dinamic
+. Popularity = 29.910000
+. Year = 1939
+. Lazy = 0
+. Parameter = 38.780000
+
+It is objective language: Have type = strict
+. Popularity = 30.130000
+. Year = 1923
+. Lazy = 2
+. Parameter = 31.524590
+
+It is objective language: Have type = strict
+. Popularity = 93.330000
+. Year = 1944
+. Lazy = 0
+. Parameter = 243.000000
+
+It is objective language: Have type = dinamic
+. Popularity = 54.630000
+. Year = 1936
+. Lazy = 0
+. Parameter = 36.528302
+
+It is objective language: Have type = strict
+. Popularity = 87.320000
+. Year = 1960
+. Lazy = 3
+. Parameter = 22.272727
+
+It is objective language: Have type = strict
+. Popularity = 27.030000
+. Year = 2019
+. Lazy = 1
+. Parameter = 38.094340
+
+It is objective language: Have type = dinamic
+. Popularity = 97.310000
+. Year = 1987
+. Lazy = 1
+. Parameter = 124.187500
+
+It is objective language: Have type = strict
+. Popularity = 55.910000
+. Year = 1952
+. Lazy = 1
+. Parameter = 84.869565
+
+It is objective language: Have type = strict
+. Popularity = 94.300000
+. Year = 1998
+. Lazy = 0
+. Parameter = 39.176471
+
+It is objective language: Have type = one
+. Popularity = 91.080000
+. Year = 1967
+. Parameter = 72.851852
+
+It is objective language: Have type = many
+. Popularity = 44.960000
+. Year = 1909
+. Parameter = 106.055556
+
+It is objective language: Have type = strict
+. Popularity = 68.510000
+. Year = 1936
+. Lazy = 0
+. Parameter = 193.600000
+
+It is objective language: Have type = strict
+. Popularity = 61.730000
+. Year = 2004
+. Lazy = 1
+. Parameter = 250.500000
+
+It is objective language: Have type = strict
+. Popularity = 58.540000
+. Year = 1992
+. Lazy = 1
+. Parameter = 25.538462
+
+It is objective language: Have type = strict
+. Popularity = 50.510000
+. Year = 1906
+. Lazy = 0
+. Parameter = 79.416667
+
+It is objective language: Have type = dinamic
+. Popularity = 50.040000
+. Year = 2011
+. Lazy = 0
+. Parameter = 46.767442
+
+It is objective language: Have type = interface
+. Popularity = 9.410000
+. Year = 1987
+. Parameter = 23.654762
+
+It is objective language: Have type = one
+. Popularity = 89.000000
+. Year = 1962
+. Parameter = 23.082353
+
+It is objective language: Have type = strict
+. Popularity = 90.100000
+. Year = 1920
+. Lazy = 0
+. Parameter = 91.428571
+
+It is objective language: Have type = dinamic
+. Popularity = 36.050000
+. Year = 1940
+. Lazy = 1
+. Parameter = 21.555556
+
+It is objective language: Have type = strict
+. Popularity = 29.160000
+. Year = 1972
+. Lazy = 3
+. Parameter = 23.759036
+
+It is objective language: Have type = strict
+. Popularity = 45.020000
+. Year = 1981
+. Lazy = 0
+. Parameter = 50.794872
+
+It is objective language: Have type = strict
+. Popularity = 83.100000
+. Year = 1974
+. Lazy = 1
+. Parameter = 164.500000
+
+It is objective language: Have type = dinamic
+. Popularity = 98.840000
+. Year = 1935
+. Lazy = 1
+. Parameter = 23.597561
+
+It is objective language: Have type = strict
+. Popularity = 79.870000
+. Year = 1907
+. Lazy = 3
+. Parameter = 476.750000
+
+It is objective language: Have type = strict
+. Popularity = 48.590000
+. Year = 1935
+. Lazy = 0
+. Parameter = 22.764706
+
+It is Procedure language: Have abstract type 0
+. Popularity = 96.030000
+. Year = 1971
+. Parameter = 20.968085
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = interface
+. Popularity = 2.820000
+. Year = 1958
+. Parameter = 51.526316
+
+It is Procedure language: Have abstract type 1
+. Popularity = 74.400000
+. Year = 2003
+. Parameter = 69.068966
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 11.330000
+. Year = 1915
+. Parameter = 26.597222
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = many
+. Popularity = 15.520000
+. Year = 1936
+. Parameter = 26.888889
+
+It is objective language: Have type = strict
+. Popularity = 13.380000
+. Year = 1921
+. Lazy = 0
+. Parameter = 68.607143
+
+It is objective language: Have type = strict
+. Popularity = 10.430000
+. Year = 1929
+. Lazy = 0
+. Parameter = 58.454545
+
+It is Procedure language: Have abstract type 0
+. Popularity = 31.880000
+. Year = 1923
+. Parameter = 20.902174
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 3
+. Popularity = 21.110000
+. Year = 1912
+. Parameter = 50.315789
+It is objective language: Have type = one
+. Popularity = 80.480000
+. Year = 1956
+. Parameter = 85.043478
+
+It is objective language: Have type = strict
+. Popularity = 8.080000
+. Year = 1937
+. Lazy = 0
+. Parameter = 60.531250
+
+It is objective language: Have type = strict
+. Popularity = 52.590000
+. Year = 1913
+. Lazy = 0
+. Parameter = 21.988506
+
+It is objective language: Have type = dinamic
+. Popularity = 24.820000
+. Year = 2005
+. Lazy = 1
+. Parameter = 48.902439
+
+It is objective language: Have type = interface
+. Popularity = 65.600000
+. Year = 1960
+. Parameter = 21.304348
+
+It is Procedure language: Have abstract type 1
+. Popularity = 57.330000
+. Year = 1945
+. Parameter = 31.885246
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 8.710000
+. Year = 1922
+. Parameter = 32.576271
+
+It is objective language: Have type = strict
+. Popularity = 38.310000
+. Year = 2020
+. Lazy = 0
+. Parameter = 67.333333
+
+It is objective language: Have type = strict
+. Popularity = 66.780000
+. Year = 1997
+. Lazy = 0
+. Parameter = 28.942029
+
+It is objective language: Have type = dinamic
+. Popularity = 66.650000
+. Year = 2008
+. Lazy = 1
+. Parameter = 32.387097
+
+It is objective language: Have type = one
+. Popularity = 14.300000
+. Year = 1943
+. Parameter = 52.513514
+
+It is objective language: Have type = one
+. Popularity = 83.940000
+. Year = 1945
+. Parameter = 19.846939
+
+It is Procedure language: Have abstract type 1
+. Popularity = 20.280000
+. Year = 2006
+. Parameter = 26.746667
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 28.630000
+. Year = 1966
+. Parameter = 327.666667
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 8.930000
+. Year = 1916
+. Parameter = 68.428571
+
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 10.200000
+. Year = 2016
+. Parameter = 27.616438
+It is objective language: Have type = one
+. Popularity = 32.030000
+. Year = 1921
+. Parameter = 24.316456
+
+It is Procedure language: Have abstract type 1
+. Popularity = 11.600000
+. Year = 1929
+. Parameter = 321.500000
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 60.100000
+. Year = 1953
+. Parameter = 67.344828
+
+It is objective language: Have type = dinamic
+. Popularity = 15.360000
+. Year = 1997
+. Lazy = 0
+. Parameter = 31.203125
+
+It is objective language: Have type = strict
+. Popularity = 53.240000
+. Year = 1907
+. Lazy = 1
+. Parameter = 23.543210
+
+It is objective language: Have type = strict
+. Popularity = 85.660000
+. Year = 1902
+. Lazy = 1
+. Parameter = 26.788732
+
+It is objective language: Have type = strict
+. Popularity = 88.010000
+. Year = 1955
+. Lazy = 0
+. Parameter = 75.192308
+
+It is objective language: Have type = strict
+. Popularity = 51.890000
+. Year = 1951
+. Lazy = 1
+. Parameter = 139.357143
+
+It is objective language: Have type = dinamic
+. Popularity = 8.290000
+. Year = 1929
+. Lazy = 0
+. Parameter = 643.000000
+
+It is objective language: Have type = dinamic
+. Popularity = 1.410000
+. Year = 1928
+. Lazy = 2
+. Parameter = 24.405063
+
+It is objective language: Have type = dinamic
+. Popularity = 51.650000
+. Year = 1958
+. Lazy = 1
+. Parameter = 26.459459
+
+It is objective language: Have type = dinamic
+. Popularity = 92.140000
+. Year = 1961
+. Lazy = 2
+. Parameter = 85.260870
+
+It is objective language: Have type = dinamic
+. Popularity = 40.190000
+. Year = 1972
+. Lazy = 2
+. Parameter = 328.666667
+
+It is objective language: Have type = strict
+. Popularity = 28.640000
+. Year = 1984
+. Lazy = 2
+. Parameter = 330.666667
+
+It is objective language: Have type = strict
+. Popularity = 95.620000
+. Year = 1921
+. Lazy = 0
+. Parameter = 36.245283
+
+It is objective language: Have type = strict
+. Popularity = 85.170000
+. Year = 2017
+. Lazy = 1
+. Parameter = 45.840909
+
+It is objective language: Have type = strict
+. Popularity = 57.570000
+. Year = 2008
+. Lazy = 0
+. Parameter = 60.848485
+
+It is objective language: Have type = dinamic
+. Popularity = 36.430000
+. Year = 2019
+. Lazy = 0
+. Parameter = 29.260870
+
+It is objective language: Have type = interface
+. Popularity = 97.980000
+. Year = 1942
+. Parameter = 25.552632
+
+It is objective language: Have type = strict
+. Popularity = 8.950000
+. Year = 1920
+. Lazy = 0
+. Parameter = 21.098901
+
+It is objective language: Have type = strict
+. Popularity = 30.510000
+. Year = 1911
+. Lazy = 1
+. Parameter = 70.777778
+
+It is objective language: Have type = strict
+. Popularity = 4.360000
+. Year = 1991
+. Lazy = 1
+. Parameter = 1991.000000
+
+It is objective language: Have type = dinamic
+. Popularity = 70.720000
+. Year = 1939
+. Lazy = 1
+. Parameter = 47.292683
+
+It is objective language: Have type = strict
+. Popularity = 54.920000
+. Year = 1966
+. Lazy = 0
+. Parameter = 22.340909
+
+It is objective language: Have type = dinamic
+. Popularity = 79.350000
+. Year = 1961
+. Lazy = 0
+. Parameter = 178.272727
+
+It is objective language: Have type = strict
+. Popularity = 10.500000
+. Year = 1947
+. Lazy = 0
+. Parameter = 27.422535
+
+It is objective language: Have type = dinamic
+. Popularity = 17.690000
+. Year = 1912
+. Lazy = 1
+. Parameter = 20.126316
+
+It is objective language: Have type = dinamic
+. Popularity = 25.650000
+. Year = 1916
+. Lazy = 1
+. Parameter = 26.611111
+
+It is objective language: Have type = dinamic
+. Popularity = 62.650000
+. Year = 1976
+. Lazy = 3
+. Parameter = 20.583333
+
+It is objective language: Have type = dinamic
+. Popularity = 26.770000
+. Year = 1939
+. Lazy = 1
+. Parameter = 21.544444
+
+It is objective language: Have type = strict
+. Popularity = 26.470000
+. Year = 2002
+. Lazy = 2
+. Parameter = 30.333333
+
+It is objective language: Have type = strict
+. Popularity = 45.010000
+. Year = 1921
+. Lazy = 0
+. Parameter = 19.404040
+
+It is Procedure language: Have abstract type 0
+. Popularity = 70.140000
+. Year = 2006
+. Parameter = 30.393939
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 20.980000
+. Year = 2021
+. Parameter = 20.414141
+
+It is objective language: Have type = one
+. Popularity = 72.420000
+. Year = 2021
+. Parameter = 38.865385
+
+It is objective language: Have type = strict
+. Popularity = 3.510000
+. Year = 2011
+. Lazy = 1
+. Parameter = 134.066667
+
+It is objective language: Have type = strict
+. Popularity = 24.510000
+. Year = 1959
+. Lazy = 0
+. Parameter = 50.230769
+
+It is objective language: Have type = strict
+. Popularity = 92.000000
+. Year = 1989
+. Lazy = 0
+. Parameter = 180.818182
+
+It is objective language: Have type = interface
+. Popularity = 17.460000
+. Year = 1971
+. Parameter = 73.000000
+
+It is objective language: Have type = interface
+. Popularity = 70.360000
+. Year = 1983
+. Parameter = 35.410714
+
+It is Procedure language: Have abstract type 0
+. Popularity = 79.900000
+. Year = 1998
+. Parameter = 25.948052
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 65.620000
+. Year = 1922
+. Parameter = 73.923077
+
+It is Procedure language: Have abstract type 0
+. Popularity = 61.170000
+. Year = 1926
+. Parameter = 55.028571
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 55.750000
+. Year = 2013
+. Parameter = 34.118644
+
+It is objective language: Have type = strict
+. Popularity = 87.500000
+. Year = 1987
+. Lazy = 0
+. Parameter = 82.791667
+
+It is objective language: Have type = strict
+. Popularity = 82.120000
+. Year = 1915
+. Lazy = 1
+. Parameter = 43.522727
+
+It is objective language: Have type = dinamic
+. Popularity = 18.220000
+. Year = 1963
+. Lazy = 0
+. Parameter = 20.447917
+
+It is objective language: Have type = strict
+. Popularity = 5.870000
+. Year = 1967
+. Lazy = 1
+. Parameter = 41.851064
+
+It is objective language: Have type = strict
+. Popularity = 81.480000
+. Year = 1997
+. Lazy = 0
+. Parameter = 25.278481
+
+It is objective language: Have type = strict
+. Popularity = 28.760000
+. Year = 1976
+. Lazy = 0
+. Parameter = 32.393443
+
+It is objective language: Have type = dinamic
+. Popularity = 66.060000
+. Year = 1904
+. Lazy = 1
+. Parameter = 26.444444
+
+It is objective language: Have type = strict
+. Popularity = 13.180000
+. Year = 1993
+. Lazy = 1
+. Parameter = 24.604938
+
+It is objective language: Have type = strict
+. Popularity = 22.520000
+. Year = 1946
+. Lazy = 0
+. Parameter = 38.920000
+
+It is objective language: Have type = dinamic
+. Popularity = 36.680000
+. Year = 1973
+. Lazy = 1
+. Parameter = 116.058824
+
+It is objective language: Have type = strict
+. Popularity = 85.910000
+. Year = 1938
+. Lazy = 1
+. Parameter = 176.181818
+
+It is objective language: Have type = dinamic
+. Popularity = 30.010000
+. Year = 1910
+. Lazy = 1
+. Parameter = 42.444444
+
+It is objective language: Have type = strict
+. Popularity = 32.640000
+. Year = 1995
+. Lazy = 0
+. Parameter = 36.272727
+
+It is objective language: Have type = strict
+. Popularity = 72.270000
+. Year = 2012
+. Lazy = 1
+. Parameter = 21.178947
+
+It is objective language: Have type = dinamic
+. Popularity = 63.500000
+. Year = 1984
+. Lazy = 1
+. Parameter = 29.611940
+
+It is Procedure language: Have abstract type 1
+. Popularity = 1.140000
+. Year = 2006
+. Parameter = 23.880952
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 20.500000
+. Year = 1945
+. Parameter = 36.018519
+
+It is objective language: Have type = one
+. Popularity = 3.080000
+. Year = 1930
+. Parameter = 27.183099
+
+It is Procedure language: Have abstract type 1
+. Popularity = 46.750000
+. Year = 1933
+. Parameter = 322.166667
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 2
+. Popularity = 78.870000
+. Year = 1952
+. Parameter = 195.200000
+It is objective language: Have type = many
+. Popularity = 74.530000
+. Year = 2008
+. Parameter = 59.058824
+
+It is objective language: Have type = many
+. Popularity = 18.200000
+. Year = 2018
+. Parameter = 126.125000
+
+It is objective language: Have type = one
+. Popularity = 48.030000
+. Year = 1970
+. Parameter = 151.538462
+
+It is Procedure language: Have abstract type 0
+. Popularity = 30.870000
+. Year = 1936
+. Parameter = 27.267606
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = interface
+. Popularity = 73.780000
+. Year = 1954
+. Parameter = 21.239130
+
+It is objective language: Have type = one
+. Popularity = 49.340000
+. Year = 1998
+. Parameter = 37.698113
+
+It is objective language: Have type = dinamic
+. Popularity = 90.360000
+. Year = 1967
+. Lazy = 0
+. Parameter = 59.606061
+
+It is objective language: Have type = dinamic
+. Popularity = 21.700000
+. Year = 1971
+. Lazy = 2
+. Parameter = 75.807692
+
+It is objective language: Have type = strict
+. Popularity = 4.980000
+. Year = 1950
+. Lazy = 2
+. Parameter = 40.625000
+
+It is objective language: Have type = dinamic
+. Popularity = 11.910000
+. Year = 1982
+. Lazy = 0
+. Parameter = 24.469136
+
+It is objective language: Have type = dinamic
+. Popularity = 72.010000
+. Year = 1965
+. Lazy = 2
+. Parameter = 24.873418
+
+It is objective language: Have type = strict
+. Popularity = 81.600000
+. Year = 1942
+. Lazy = 3
+. Parameter = 22.847059
+
+It is objective language: Have type = dinamic
+. Popularity = 25.960000
+. Year = 1928
+. Lazy = 1
+. Parameter = 23.802469
+
+It is objective language: Have type = one
+. Popularity = 75.900000
+. Year = 1980
+. Parameter = 141.428571
+
+It is objective language: Have type = strict
+. Popularity = 71.570000
+. Year = 1906
+. Lazy = 0
+. Parameter = 953.000000
+
+It is objective language: Have type = dinamic
+. Popularity = 66.080000
+. Year = 1950
+. Lazy = 1
+. Parameter = 27.464789
+
+It is objective language: Have type = strict
+. Popularity = 76.270000
+. Year = 1935
+. Lazy = 1
+. Parameter = 193.500000
+
+It is objective language: Have type = dinamic
+. Popularity = 40.880000
+. Year = 1937
+. Lazy = 0
+. Parameter = 28.910448
+
+It is objective language: Have type = one
+. Popularity = 9.710000
+. Year = 1953
+. Parameter = 27.507042
+
+It is Procedure language: Have abstract type 1
+. Popularity = 35.090000
+. Year = 2002
+. Parameter = 80.080000
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 92.630000
+. Year = 1962
+. Parameter = 30.184615
+It is objective language: Have type = strict
+. Popularity = 63.900000
+. Year = 1919
+. Lazy = 1
+. Parameter = 76.760000
+
+It is objective language: Have type = strict
+. Popularity = 36.100000
+. Year = 1948
+. Lazy = 0
+. Parameter = 36.074074
+
+It is objective language: Have type = strict
+. Popularity = 47.140000
+. Year = 1984
+. Lazy = 1
+. Parameter = 27.555556
+
+It is objective language: Have type = strict
+. Popularity = 54.240000
+. Year = 1959
+. Lazy = 0
+. Parameter = 41.680851
+
+It is Procedure language: Have abstract type 1
+. Popularity = 14.450000
+. Year = 1973
+. Parameter = 50.589744
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 64.860000
+. Year = 1930
+. Parameter = 32.711864
+It is objective language: Have type = interface
+. Popularity = 93.700000
+. Year = 1916
+. Parameter = 1916.000000
+
+It is Procedure language: Have abstract type 0
+. Popularity = 52.250000
+. Year = 1911
+. Parameter = 173.727273
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 21.910000
+. Year = 1930
+. Parameter = 482.500000
+
+It is objective language: Have type = one
+. Popularity = 56.200000
+. Year = 1966
+. Parameter = 25.868421
+
+It is Procedure language: Have abstract type 0
+. Popularity = 51.030000
+. Year = 1941
+. Parameter = 38.058824
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 2
+. Popularity = 22.040000
+. Year = 1939
+. Parameter = 25.513158
+It is objective language: Have type = many
+. Popularity = 4.150000
+. Year = 2006
+. Parameter = 105.578947
+
+It is objective language: Have type = many
+. Popularity = 58.030000
+. Year = 2008
+. Parameter = 21.136842
+
+It is Procedure language: Have abstract type 1
+. Popularity = 26.520000
+. Year = 1906
+. Parameter = 57.757576
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 64.500000
+. Year = 1935
+. Parameter = 71.666667
+
+It is objective language: Have type = many
+. Popularity = 46.450000
+. Year = 1949
+. Parameter = 84.739130
+
+It is objective language: Have type = many
+. Popularity = 71.390000
+. Year = 1905
+. Parameter = 25.065789
+
+It is objective language: Have type = strict
+. Popularity = 56.380000
+. Year = 1938
+. Lazy = 0
+. Parameter = 40.375000
+
+It is objective language: Have type = dinamic
+. Popularity = 88.180000
+. Year = 2004
+. Lazy = 0
+. Parameter = 71.571429
+
+It is objective language: Have type = dinamic
+. Popularity = 36.910000
+. Year = 1909
+. Lazy = 1
+. Parameter = 19.282828
+
+It is objective language: Have type = dinamic
+. Popularity = 44.550000
+. Year = 2011
+. Lazy = 2
+. Parameter = 38.673077
+
+It is objective language: Have type = strict
+. Popularity = 88.600000
+. Year = 1951
+. Lazy = 1
+. Parameter = 20.113402
+
+It is objective language: Have type = strict
+. Popularity = 45.530000
+. Year = 1982
+. Lazy = 0
+. Parameter = 41.291667
+
+It is objective language: Have type = strict
+. Popularity = 15.320000
+. Year = 2019
+. Lazy = 1
+. Parameter = 84.125000
+
+It is objective language: Have type = strict
+. Popularity = 72.880000
+. Year = 1969
+. Lazy = 0
+. Parameter = 32.278689
+
+It is Procedure language: Have abstract type 0
+. Popularity = 31.630000
+. Year = 1956
+. Parameter = 108.666667
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 3
+. Popularity = 52.660000
+. Year = 1980
+. Parameter = 24.444444
+It is objective language: Have type = strict
+. Popularity = 59.550000
+. Year = 1943
+. Lazy = 1
+. Parameter = 80.958333
+
+It is objective language: Have type = dinamic
+. Popularity = 63.210000
+. Year = 1932
+. Lazy = 1
+. Parameter = 19.515152
+
+It is objective language: Have type = dinamic
+. Popularity = 20.450000
+. Year = 1983
+. Lazy = 0
+. Parameter = 76.269231
+
+It is objective language: Have type = strict
+. Popularity = 61.160000
+. Year = 1936
+. Lazy = 3
+. Parameter = 71.703704
+
+It is objective language: Have type = dinamic
+. Popularity = 7.840000
+. Year = 1926
+. Lazy = 1
+. Parameter = 87.545455
+
+It is Procedure language: Have abstract type 0
+. Popularity = 21.360000
+. Year = 1953
+. Parameter = 63.000000
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 65.480000
+. Year = 1934
+. Parameter = 48.350000
+
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 31.590000
+. Year = 1976
+. Parameter = 35.285714
+
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 83.930000
+. Year = 1908
+. Parameter = 65.793103
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = many
+. Popularity = 5.500000
+. Year = 1927
+. Parameter = 38.540000
+
+It is objective language: Have type = strict
+. Popularity = 34.290000
+. Year = 1919
+. Lazy = 1
+. Parameter = 25.586667
+
+It is objective language: Have type = dinamic
+. Popularity = 10.840000
+. Year = 1928
+. Lazy = 0
+. Parameter = 35.054545
+
+It is objective language: Have type = strict
+. Popularity = 7.260000
+. Year = 1969
+. Lazy = 1
+. Parameter = 25.571429
+
+It is objective language: Have type = strict
+. Popularity = 75.530000
+. Year = 1967
+. Lazy = 0
+. Parameter = 65.566667
+
+It is objective language: Have type = dinamic
+. Popularity = 47.760000
+. Year = 1933
+. Lazy = 0
+. Parameter = 138.071429
+
+It is Procedure language: Have abstract type 0
+. Popularity = 4.110000
+. Year = 1949
+. Parameter = 21.184783
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 21.960000
+. Year = 1923
+. Parameter = 60.093750
+
+It is Procedure language: Have abstract type 1
+. Popularity = 79.320000
+. Year = 1932
+. Parameter = 21.466667
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 15.880000
+. Year = 1953
+. Parameter = 25.038462
+
+It is objective language: Have type = interface
+. Popularity = 5.780000
+. Year = 1915
+. Parameter = 43.522727
+
+It is objective language: Have type = one
+. Popularity = 47.030000
+. Year = 1904
+. Parameter = 20.042105
+
+It is objective language: Have type = strict
+. Popularity = 86.100000
+. Year = 1988
+. Lazy = 1
+. Parameter = 29.235294
+
+It is objective language: Have type = dinamic
+. Popularity = 92.990000
+. Year = 2008
+. Lazy = 0
+. Parameter = 29.529412
+
+It is objective language: Have type = interface
+. Popularity = 26.770000
+. Year = 1994
+. Parameter = 22.919540
+
+It is objective language: Have type = interface
+. Popularity = 17.950000
+. Year = 1945
+. Parameter = 31.885246
+
+It is objective language: Have type = one
+. Popularity = 79.810000
+. Year = 1931
+. Parameter = 21.219780
+
+It is objective language: Have type = strict
+. Popularity = 65.300000
+. Year = 1974
+. Lazy = 0
+. Parameter = 30.843750
+
+It is objective language: Have type = dinamic
+. Popularity = 50.460000
+. Year = 1944
+. Lazy = 1
+. Parameter = 77.760000
+
+It is Procedure language: Have abstract type 0
+. Popularity = 14.440000
+. Year = 1965
+. Parameter = 78.600000
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 2
+. Popularity = 26.660000
+. Year = 1958
+. Parameter = 22.505747
+It is objective language: Have type = one
+. Popularity = 78.660000
+. Year = 1959
+. Parameter = 178.090909
+
+It is Procedure language: Have abstract type 1
+. Popularity = 56.130000
+. Year = 1963
+. Parameter = 53.054054
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 86.380000
+. Year = 1991
+. Parameter = 23.151163
+
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 1.160000
+. Year = 1966
+. Parameter = 280.857143
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 84.410000
+. Year = 1996
+. Parameter = 332.666667
+It is objective language: Have type = strict
+. Popularity = 10.700000
+. Year = 1912
+. Lazy = 1
+. Parameter = 59.750000
+
+It is objective language: Have type = strict
+. Popularity = 67.380000
+. Year = 2000
+. Lazy = 0
+. Parameter = 100.000000
+
+It is Procedure language: Have abstract type 0
+. Popularity = 62.850000
+. Year = 1948
+. Parameter = 243.500000
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 54.270000
+. Year = 1981
+. Parameter = 33.016667
+
+It is Procedure language: Have abstract type 1
+. Popularity = 1.690000
+. Year = 1924
+. Parameter = 641.333333
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 58.720000
+. Year = 1961
+. Parameter = 150.846154
+
+It is objective language: Have type = many
+. Popularity = 88.730000
+. Year = 2020
+. Parameter = 336.666667
+
+It is objective language: Have type = many
+. Popularity = 62.630000
+. Year = 2010
+. Parameter = 32.419355
+
+It is Procedure language: Have abstract type 0
+. Popularity = 53.170000
+. Year = 1958
+. Parameter = 35.600000
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 3
+. Popularity = 19.990000
+. Year = 1959
+. Parameter = 97.950000
+It is Procedure language: Have abstract type 1
+. Popularity = 0.280000
+. Year = 1935
+. Parameter = 1935.000000
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 14.100000
+. Year = 1939
+. Parameter = 242.375000
+
+It is objective language: Have type = interface
+. Popularity = 50.940000
+. Year = 1988
+. Parameter = 21.608696
+
+It is objective language: Have type = interface
+. Popularity = 18.470000
+. Year = 1914
+. Parameter = 25.864865
+
+It is objective language: Have type = strict
+. Popularity = 58.620000
+. Year = 2017
+. Lazy = 1
+. Parameter = 40.340000
+
+It is objective language: Have type = dinamic
+. Popularity = 68.530000
+. Year = 1950
+. Lazy = 1
+. Parameter = 22.413793
+
+It is objective language: Have type = dinamic
+. Popularity = 71.940000
+. Year = 2020
+. Lazy = 1
+. Parameter = 183.636364
+
+It is objective language: Have type = dinamic
+. Popularity = 92.350000
+. Year = 1967
+. Lazy = 1
+. Parameter = 491.750000
+
+It is objective language: Have type = strict
+. Popularity = 96.250000
+. Year = 2015
+. Lazy = 3
+. Parameter = 26.513158
+
+It is objective language: Have type = strict
+. Popularity = 66.530000
+. Year = 1947
+. Lazy = 1
+. Parameter = 20.281250
+
+It is objective language: Have type = strict
+. Popularity = 4.490000
+. Year = 1906
+. Lazy = 1
+. Parameter = 38.897959
+
+It is objective language: Have type = dinamic
+. Popularity = 46.350000
+. Year = 1910
+. Lazy = 1
+. Parameter = 90.952381
+
+It is objective language: Have type = dinamic
+. Popularity = 97.930000
+. Year = 1998
+. Lazy = 1
+. Parameter = 41.625000
+
+It is objective language: Have type = dinamic
+. Popularity = 22.280000
+. Year = 2015
+. Lazy = 2
+. Parameter = 20.353535
+
+It is objective language: Have type = strict
+. Popularity = 67.990000
+. Year = 2003
+. Lazy = 1
+. Parameter = 51.358974
+
+It is objective language: Have type = strict
+. Popularity = 20.720000
+. Year = 1900
+. Lazy = 0
+. Parameter = 27.142857
+
+It is objective language: Have type = dinamic
+. Popularity = 92.240000
+. Year = 1954
+. Lazy = 1
+. Parameter = 150.307692
+
+It is Procedure language: Have abstract type 0
+. Popularity = 31.150000
+. Year = 1970
+. Parameter = 48.048780
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 78.360000
+. Year = 1948
+. Parameter = 47.512195
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 17.640000
+. Year = 1938
+. Parameter = 24.531646
+
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 7.540000
+. Year = 1923
+. Parameter = 41.804348
+It is objective language: Have type = one
+. Popularity = 32.480000
+. Year = 1940
+. Parameter = 31.290323
+
+It is objective language: Have type = one
+. Popularity = 59.870000
+. Year = 1921
+. Parameter = 22.600000
+
+It is objective language: Have type = strict
+. Popularity = 28.140000
+. Year = 2021
+. Lazy = 0
+. Parameter = 67.366667
+
+It is objective language: Have type = dinamic
+. Popularity = 80.190000
+. Year = 1927
+. Lazy = 1
+. Parameter = 25.025974
+
+It is objective language: Have type = interface
+. Popularity = 72.020000
+. Year = 2020
+. Parameter = 106.315789
+
+It is Procedure language: Have abstract type 1
+. Popularity = 60.770000
+. Year = 1937
+. Parameter = 20.827957
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = interface
+. Popularity = 80.000000
+. Year = 1959
+. Parameter = 25.441558
+
+It is objective language: Have type = one
+. Popularity = 48.280000
+. Year = 1958
+. Parameter = 20.185567
+
+It is objective language: Have type = one
+. Popularity = 47.710000
+. Year = 1987
+. Parameter = 20.275510
+
+It is Procedure language: Have abstract type 0
+. Popularity = 71.360000
+. Year = 1934
+. Parameter = 21.730337
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 3
+. Popularity = 28.790000
+. Year = 1906
+. Parameter = 70.592593
+It is objective language: Have type = strict
+. Popularity = 59.720000
+. Year = 1968
+. Lazy = 1
+. Parameter = 39.360000
+
+It is objective language: Have type = dinamic
+. Popularity = 77.290000
+. Year = 1943
+. Lazy = 1
+. Parameter = 107.944444
+
+It is objective language: Have type = strict
+. Popularity = 16.330000
+. Year = 2020
+. Lazy = 1
+. Parameter = 45.909091
+
+It is objective language: Have type = strict
+. Popularity = 77.260000
+. Year = 1903
+. Lazy = 1
+. Parameter = 33.982143
+
+It is objective language: Have type = strict
+. Popularity = 66.090000
+. Year = 1953
+. Lazy = 0
+. Parameter = 36.166667
+
+It is objective language: Have type = strict
+. Popularity = 24.300000
+. Year = 1943
+. Lazy = 0
+. Parameter = 21.119565
+
+It is objective language: Have type = dinamic
+. Popularity = 45.310000
+. Year = 1905
+. Lazy = 0
+. Parameter = 136.071429
+
+It is Procedure language: Have abstract type 0
+. Popularity = 32.800000
+. Year = 1946
+. Parameter = 46.333333
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = many
+. Popularity = 58.280000
+. Year = 2001
+. Parameter = 66.700000
+
+It is objective language: Have type = strict
+. Popularity = 34.170000
+. Year = 1954
+. Lazy = 1
+. Parameter = 36.185185
+
+It is objective language: Have type = dinamic
+. Popularity = 19.330000
+. Year = 1985
+. Lazy = 1
+. Parameter = 49.625000
+
+It is objective language: Have type = strict
+. Popularity = 20.090000
+. Year = 1983
+. Lazy = 1
+. Parameter = 21.095745
+
+It is objective language: Have type = dinamic
+. Popularity = 28.090000
+. Year = 1919
+. Lazy = 0
+. Parameter = 95.950000
+
+It is Procedure language: Have abstract type 0
+. Popularity = 83.420000
+. Year = 1989
+. Parameter = 142.071429
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 10.770000
+. Year = 2008
+. Parameter = 167.333333
+It is objective language: Have type = many
+. Popularity = 75.440000
+. Year = 1993
+. Parameter = 56.942857
+
+It is objective language: Have type = interface
+. Popularity = 93.010000
+. Year = 2012
+. Parameter = 31.437500
+
+It is Procedure language: Have abstract type 0
+. Popularity = 77.200000
+. Year = 1962
+. Parameter = 150.923077
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 90.960000
+. Year = 2000
+. Parameter = 23.809524
+
+It is objective language: Have type = dinamic
+. Popularity = 68.300000
+. Year = 1980
+. Lazy = 0
+. Parameter = 79.200000
+
+It is objective language: Have type = dinamic
+. Popularity = 84.070000
+. Year = 1948
+. Lazy = 3
+. Parameter = 28.231884
+
+It is objective language: Have type = dinamic
+. Popularity = 57.910000
+. Year = 1988
+. Lazy = 3
+. Parameter = 28.000000
+
+It is objective language: Have type = dinamic
+. Popularity = 31.870000
+. Year = 1985
+. Lazy = 2
+. Parameter = 19.850000
+
+It is objective language: Have type = dinamic
+. Popularity = 94.400000
+. Year = 2000
+. Lazy = 3
+. Parameter = 25.316456
+
+It is objective language: Have type = strict
+. Popularity = 33.270000
+. Year = 1984
+. Lazy = 1
+. Parameter = 44.088889
+
+It is objective language: Have type = dinamic
+. Popularity = 81.980000
+. Year = 2007
+. Lazy = 0
+. Parameter = 41.812500
+
+It is objective language: Have type = strict
+. Popularity = 2.450000
+. Year = 1974
+. Lazy = 0
+. Parameter = 78.960000
+
+It is objective language: Have type = dinamic
+. Popularity = 14.040000
+. Year = 1931
+. Lazy = 0
+. Parameter = 275.857143
+
+It is objective language: Have type = dinamic
+. Popularity = 13.450000
+. Year = 1995
+. Lazy = 3
+. Parameter = 21.684783
+
+It is objective language: Have type = dinamic
+. Popularity = 36.410000
+. Year = 1917
+. Lazy = 1
+. Parameter = 29.953125
+
+It is objective language: Have type = strict
+. Popularity = 17.220000
+. Year = 1944
+. Lazy = 3
+. Parameter = 20.903226
+
+It is objective language: Have type = dinamic
+. Popularity = 15.470000
+. Year = 1973
+. Lazy = 0
+. Parameter = 78.920000
+
+It is objective language: Have type = strict
+. Popularity = 28.010000
+. Year = 1962
+. Lazy = 1
+. Parameter = 150.923077
+
+It is objective language: Have type = strict
+. Popularity = 17.810000
+. Year = 1925
+. Lazy = 1
+. Parameter = 19.845361
+
+It is Procedure language: Have abstract type 1
+. Popularity = 84.490000
+. Year = 1956
+. Parameter = 19.959184
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 88.600000
+. Year = 1956
+. Parameter = 24.450000
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = many
+. Popularity = 44.910000
+. Year = 1971
+. Parameter = 46.928571
+
+It is objective language: Have type = strict
+. Popularity = 79.440000
+. Year = 1924
+. Lazy = 0
+. Parameter = 33.172414
+
+It is objective language: Have type = strict
+. Popularity = 47.960000
+. Year = 1950
+. Lazy = 1
+. Parameter = 24.683544
+
+It is objective language: Have type = dinamic
+. Popularity = 81.570000
+. Year = 1965
+. Lazy = 1
+. Parameter = 35.089286
+
+It is objective language: Have type = strict
+. Popularity = 77.680000
+. Year = 1922
+. Lazy = 1
+. Parameter = 62.000000
+
+It is objective language: Have type = dinamic
+. Popularity = 80.560000
+. Year = 1970
+. Lazy = 1
+. Parameter = 131.333333
+
+It is objective language: Have type = dinamic
+. Popularity = 15.850000
+. Year = 1944
+. Lazy = 2
+. Parameter = 972.000000
+
+It is objective language: Have type = strict
+. Popularity = 8.260000
+. Year = 1946
+. Lazy = 2
+. Parameter = 102.421053
+
+It is objective language: Have type = strict
+. Popularity = 50.140000
+. Year = 1962
+. Lazy = 1
+. Parameter = 21.096774
+
+It is objective language: Have type = one
+. Popularity = 90.880000
+. Year = 1988
+. Parameter = 55.222222
+
+It is objective language: Have type = dinamic
+. Popularity = 97.810000
+. Year = 1987
+. Lazy = 0
+. Parameter = 62.093750
+
+It is objective language: Have type = strict
+. Popularity = 57.180000
+. Year = 2003
+. Lazy = 2
+. Parameter = 46.581395
+
+It is objective language: Have type = strict
+. Popularity = 50.940000
+. Year = 1974
+. Lazy = 0
+. Parameter = 22.953488
+
+It is objective language: Have type = strict
+. Popularity = 77.600000
+. Year = 1983
+. Lazy = 1
+. Parameter = 41.312500
+
+It is Procedure language: Have abstract type 1
+. Popularity = 23.650000
+. Year = 1948
+. Parameter = 22.917647
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 10.130000
+. Year = 1949
+. Parameter = 97.450000
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 69.360000
+. Year = 1931
+. Parameter = 38.620000
+
+It is Procedure language: Have abstract type 1
+. Popularity = 40.000000
+. Year = 2008
+. Parameter = 24.192771
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 47.220000
+. Year = 1903
+. Parameter = 20.462366
+
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 67.630000
+. Year = 1994
+. Parameter = 22.919540
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 66.500000
+. Year = 2016
+. Parameter = 403.200000
+It is objective language: Have type = one
+. Popularity = 3.830000
+. Year = 1915
+. Parameter = 22.267442
+
+It is Procedure language: Have abstract type 1
+. Popularity = 79.180000
+. Year = 1941
+. Parameter = 58.818182
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 36.330000
+. Year = 1995
+. Parameter = 60.454545
+
+It is objective language: Have type = one
+. Popularity = 50.600000
+. Year = 1920
+. Parameter = 66.206897
+
+It is objective language: Have type = dinamic
+. Popularity = 14.540000
+. Year = 1900
+. Lazy = 0
+. Parameter = 76.000000
+
+It is objective language: Have type = dinamic
+. Popularity = 37.640000
+. Year = 1955
+. Lazy = 3
+. Parameter = 33.706897
+
+It is objective language: Have type = strict
+. Popularity = 11.970000
+. Year = 2008
+. Lazy = 1
+. Parameter = 25.100000
+
+It is objective language: Have type = strict
+. Popularity = 71.540000
+. Year = 1919
+. Lazy = 1
+. Parameter = 27.414286
+
+It is Procedure language: Have abstract type 1
+. Popularity = 40.780000
+. Year = 1918
+. Parameter = 23.679012
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 98.590000
+. Year = 1980
+. Parameter = 27.500000
+It is objective language: Have type = dinamic
+. Popularity = 62.890000
+. Year = 1927
+. Lazy = 0
+. Parameter = 26.763889
+
+It is objective language: Have type = strict
+. Popularity = 99.020000
+. Year = 1967
+. Lazy = 1
+. Parameter = 28.100000
+
+It is objective language: Have type = strict
+. Popularity = 33.960000
+. Year = 1911
+. Lazy = 0
+. Parameter = 38.220000
+
+It is objective language: Have type = dinamic
+. Popularity = 88.950000
+. Year = 1993
+. Lazy = 0
+. Parameter = 32.672131
+
+It is objective language: Have type = strict
+. Popularity = 55.880000
+. Year = 2003
+. Lazy = 1
+. Parameter = 60.696970
+
+It is objective language: Have type = dinamic
+. Popularity = 96.640000
+. Year = 1926
+. Lazy = 0
+. Parameter = 50.684211
+
+It is objective language: Have type = strict
+. Popularity = 47.030000
+. Year = 1974
+. Lazy = 2
+. Parameter = 89.727273
+
+It is objective language: Have type = strict
+. Popularity = 4.280000
+. Year = 1922
+. Lazy = 0
+. Parameter = 40.893617
+
+It is objective language: Have type = strict
+. Popularity = 63.000000
+. Year = 1903
+. Lazy = 0
+. Parameter = 23.207317
+
+It is objective language: Have type = strict
+. Popularity = 58.710000
+. Year = 1940
+. Lazy = 1
+. Parameter = 25.526316
+
+It is objective language: Have type = dinamic
+. Popularity = 75.490000
+. Year = 2000
+. Lazy = 0
+. Parameter = 68.965517
+
+It is objective language: Have type = strict
+. Popularity = 5.260000
+. Year = 2020
+. Lazy = 2
+. Parameter = 336.666667
+
+It is objective language: Have type = strict
+. Popularity = 11.290000
+. Year = 1995
+. Lazy = 0
+. Parameter = 24.329268
+
+It is objective language: Have type = dinamic
+. Popularity = 8.110000
+. Year = 1917
+. Lazy = 1
+. Parameter = 19.561224
+
+It is Procedure language: Have abstract type 1
+. Popularity = 36.790000
+. Year = 1928
+. Parameter = 60.250000
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 37.700000
+. Year = 1958
+. Parameter = 69.928571
+It is objective language: Have type = dinamic
+. Popularity = 82.930000
+. Year = 1999
+. Lazy = 1
+. Parameter = 44.422222
+
+It is objective language: Have type = strict
+. Popularity = 75.060000
+. Year = 1958
+. Lazy = 2
+. Parameter = 39.160000
+
+It is objective language: Have type = dinamic
+. Popularity = 26.650000
+. Year = 1909
+. Lazy = 1
+. Parameter = 19.479592
+
+It is objective language: Have type = interface
+. Popularity = 9.610000
+. Year = 1912
+. Parameter = 20.559140
+
+It is objective language: Have type = dinamic
+. Popularity = 56.580000
+. Year = 1903
+. Lazy = 0
+. Parameter = 86.500000
+
+It is objective language: Have type = strict
+. Popularity = 64.170000
+. Year = 1940
+. Lazy = 3
+. Parameter = 277.142857
+
+It is objective language: Have type = dinamic
+. Popularity = 45.970000
+. Year = 2005
+. Lazy = 0
+. Parameter = 30.846154
+
+It is objective language: Have type = strict
+. Popularity = 84.460000
+. Year = 2018
+. Lazy = 0
+. Parameter = 42.041667
+
+It is objective language: Have type = dinamic
+. Popularity = 97.920000
+. Year = 1935
+. Lazy = 0
+. Parameter = 69.107143
+
+It is objective language: Have type = strict
+. Popularity = 8.430000
+. Year = 1975
+. Lazy = 1
+. Parameter = 28.623188
+
+It is objective language: Have type = dinamic
+. Popularity = 22.520000
+. Year = 1970
+. Lazy = 0
+. Parameter = 33.389831
+
+It is objective language: Have type = strict
+. Popularity = 27.010000
+. Year = 2005
+. Lazy = 1
+. Parameter = 38.557692
+
+It is objective language: Have type = dinamic
+. Popularity = 9.260000
+. Year = 1927
+. Lazy = 1
+. Parameter = 21.175824
+
+It is objective language: Have type = dinamic
+. Popularity = 45.700000
+. Year = 1924
+. Lazy = 0
+. Parameter = 26.000000
+
+It is objective language: Have type = strict
+. Popularity = 61.350000
+. Year = 1921
+. Lazy = 2
+. Parameter = 71.148148
+
+It is objective language: Have type = strict
+. Popularity = 27.040000
+. Year = 2015
+. Lazy = 0
+. Parameter = 21.436170
+
+It is objective language: Have type = dinamic
+. Popularity = 39.620000
+. Year = 1998
+. Lazy = 1
+. Parameter = 36.327273
+
+It is objective language: Have type = dinamic
+. Popularity = 16.540000
+. Year = 1977
+. Lazy = 3
+. Parameter = 494.250000
+
+It is objective language: Have type = dinamic
+. Popularity = 71.060000
+. Year = 1980
+. Lazy = 3
+. Parameter = 31.935484
+
+It is objective language: Have type = strict
+. Popularity = 27.620000
+. Year = 1940
+. Lazy = 1
+. Parameter = 215.555556
+
+It is objective language: Have type = dinamic
+. Popularity = 82.490000
+. Year = 1986
+. Lazy = 1
+. Parameter = 116.823529
+
+It is objective language: Have type = one
+. Popularity = 72.710000
+. Year = 2005
+. Parameter = 24.156627
+
+It is Procedure language: Have abstract type 1
+. Popularity = 76.790000
+. Year = 2011
+. Parameter = 41.895833
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 65.940000
+. Year = 1986
+. Parameter = 26.131579
+
+It is objective language: Have type = many
+. Popularity = 11.640000
+. Year = 1965
+. Parameter = 196.500000
+
+It is objective language: Have type = strict
+. Popularity = 36.900000
+. Year = 1985
+. Lazy = 0
+. Parameter = 37.452830
+
+It is objective language: Have type = dinamic
+. Popularity = 4.310000
+. Year = 2003
+. Lazy = 1
+. Parameter = 22.010989
+
+It is objective language: Have type = strict
+. Popularity = 11.280000
+. Year = 1953
+. Lazy = 0
+. Parameter = 114.882353
+
+It is objective language: Have type = strict
+. Popularity = 18.840000
+. Year = 1927
+. Lazy = 0
+. Parameter = 77.080000
+
+It is objective language: Have type = dinamic
+. Popularity = 99.470000
+. Year = 1916
+. Lazy = 0
+. Parameter = 61.806452
+
+It is objective language: Have type = dinamic
+. Popularity = 32.940000
+. Year = 1917
+. Lazy = 0
+. Parameter = 45.642857
+
+It is objective language: Have type = strict
+. Popularity = 25.810000
+. Year = 1943
+. Lazy = 3
+. Parameter = 21.119565
+
+It is objective language: Have type = dinamic
+. Popularity = 36.310000
+. Year = 1902
+. Lazy = 0
+. Parameter = 30.190476
+
+It is objective language: Have type = strict
+. Popularity = 12.270000
+. Year = 1903
+. Lazy = 2
+. Parameter = 190.300000
+
+It is objective language: Have type = dinamic
+. Popularity = 19.180000
+. Year = 2021
+. Lazy = 1
+. Parameter = 44.911111
+
+It is objective language: Have type = strict
+. Popularity = 28.220000
+. Year = 1921
+. Lazy = 0
+. Parameter = 50.552632
+
+It is objective language: Have type = dinamic
+. Popularity = 39.880000
+. Year = 2000
+. Lazy = 0
+. Parameter = 40.816327
+
+It is Procedure language: Have abstract type 0
+. Popularity = 6.840000
+. Year = 1943
+. Parameter = 22.079545
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 3
+. Popularity = 27.180000
+. Year = 1967
+. Parameter = 40.142857
+It is objective language: Have type = one
+. Popularity = 96.090000
+. Year = 1995
+. Parameter = 665.000000
+
+It is Procedure language: Have abstract type 0
+. Popularity = 11.470000
+. Year = 1950
+. Parameter = 243.750000
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 8.970000
+. Year = 1942
+. Parameter = 57.117647
+
+It is objective language: Have type = strict
+. Popularity = 66.570000
+. Year = 1972
+. Lazy = 1
+. Parameter = 219.111111
+
+It is objective language: Have type = strict
+. Popularity = 69.660000
+. Year = 1906
+. Lazy = 0
+. Parameter = 24.435897
+
+It is Procedure language: Have abstract type 1
+. Popularity = 34.960000
+. Year = 2001
+. Parameter = 39.235294
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 67.230000
+. Year = 1902
+. Parameter = 19.212121
+
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 3
+. Popularity = 99.410000
+. Year = 1997
+. Parameter = 181.545455
+It is Procedure language: Have abstract type 0
+. Popularity = 44.610000
+. Year = 1930
+. Parameter = 160.833333
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 6.060000
+. Year = 2010
+. Parameter = 27.534247
+
+It is Procedure language: Have abstract type 0
+. Popularity = 57.110000
+. Year = 1913
+. Parameter = 106.277778
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 35.410000
+. Year = 2002
+. Parameter = 23.279070
+
+It is objective language: Have type = strict
+. Popularity = 88.940000
+. Year = 2000
+. Lazy = 1
+. Parameter = 22.988506
+
+It is objective language: Have type = strict
+. Popularity = 66.490000
+. Year = 1914
+. Lazy = 1
+. Parameter = 273.428571
+
+It is objective language: Have type = dinamic
+. Popularity = 87.860000
+. Year = 1965
+. Lazy = 0
+. Parameter = 33.305085
+
+It is objective language: Have type = strict
+. Popularity = 31.520000
+. Year = 1946
+. Lazy = 1
+. Parameter = 21.622222
+
+It is objective language: Have type = dinamic
+. Popularity = 9.590000
+. Year = 1994
+. Lazy = 1
+. Parameter = 52.473684
+
+It is objective language: Have type = strict
+. Popularity = 12.700000
+. Year = 2008
+. Lazy = 1
+. Parameter = 38.615385
+
+It is objective language: Have type = dinamic
+. Popularity = 35.860000
+. Year = 1949
+. Lazy = 1
+. Parameter = 62.870968
+
+It is objective language: Have type = strict
+. Popularity = 67.680000
+. Year = 1989
+. Lazy = 3
+. Parameter = 22.348315
+
+It is objective language: Have type = dinamic
+. Popularity = 44.340000
+. Year = 1912
+. Lazy = 0
+. Parameter = 45.523810
+
+It is objective language: Have type = interface
+. Popularity = 54.640000
+. Year = 1932
+. Parameter = 84.000000
+
+It is objective language: Have type = dinamic
+. Popularity = 8.130000
+. Year = 1906
+. Lazy = 1
+. Parameter = 31.766667
+
+It is objective language: Have type = strict
+. Popularity = 90.410000
+. Year = 1903
+. Lazy = 2
+. Parameter = 111.941176
+
+It is objective language: Have type = strict
+. Popularity = 30.800000
+. Year = 1935
+. Lazy = 0
+. Parameter = 37.211538
+
+It is objective language: Have type = strict
+. Popularity = 66.670000
+. Year = 1917
+. Lazy = 0
+. Parameter = 19.363636
+
+It is objective language: Have type = strict
+. Popularity = 18.260000
+. Year = 1909
+. Lazy = 0
+. Parameter = 22.726190
+
+It is objective language: Have type = strict
+. Popularity = 80.710000
+. Year = 1909
+. Lazy = 1
+. Parameter = 19.479592
+
+It is objective language: Have type = strict
+. Popularity = 65.810000
+. Year = 1958
+. Lazy = 0
+. Parameter = 55.942857
+
+It is objective language: Have type = dinamic
+. Popularity = 50.970000
+. Year = 1950
+. Lazy = 0
+. Parameter = 36.111111
+
+It is objective language: Have type = dinamic
+. Popularity = 19.880000
+. Year = 1913
+. Lazy = 3
+. Parameter = 147.153846
+
+It is objective language: Have type = strict
+. Popularity = 55.880000
+. Year = 1902
+. Lazy = 2
+. Parameter = 41.347826
+
+It is objective language: Have type = dinamic
+. Popularity = 46.850000
+. Year = 2009
+. Lazy = 0
+. Parameter = 50.225000
+
+It is objective language: Have type = strict
+. Popularity = 49.740000
+. Year = 1937
+. Lazy = 3
+. Parameter = 484.250000
+
+It is objective language: Have type = dinamic
+. Popularity = 30.800000
+. Year = 1990
+. Lazy = 1
+. Parameter = 90.454545
+
+It is Procedure language: Have abstract type 0
+. Popularity = 72.800000
+. Year = 1956
+. Parameter = 57.529412
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 49.010000
+. Year = 1923
+. Parameter = 56.558824
+It is objective language: Have type = one
+. Popularity = 28.180000
+. Year = 1950
+. Parameter = 23.493976
+
+It is objective language: Have type = strict
+. Popularity = 12.610000
+. Year = 2020
+. Lazy = 1
+. Parameter = 41.224490
+
+It is objective language: Have type = dinamic
+. Popularity = 77.580000
+. Year = 2014
+. Lazy = 1
+. Parameter = 2014.000000
+
+It is objective language: Have type = strict
+. Popularity = 36.470000
+. Year = 1902
+. Lazy = 0
+. Parameter = 73.153846
+
+It is objective language: Have type = strict
+. Popularity = 64.220000
+. Year = 1992
+. Lazy = 1
+. Parameter = 22.636364
+
+It is objective language: Have type = strict
+. Popularity = 59.180000
+. Year = 1963
+. Lazy = 1
+. Parameter = 32.180328
+
+It is objective language: Have type = strict
+. Popularity = 73.720000
+. Year = 1968
+. Lazy = 1
+. Parameter = 115.764706
+
+It is objective language: Have type = strict
+. Popularity = 72.190000
+. Year = 1976
+. Lazy = 1
+. Parameter = 131.733333
+
+It is Procedure language: Have abstract type 1
+. Popularity = 9.900000
+. Year = 2001
+. Parameter = 28.183099
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 97.610000
+. Year = 1960
+. Parameter = 37.692308
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 18.560000
+. Year = 2014
+. Parameter = 28.366197
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = interface
+. Popularity = 80.310000
+. Year = 1981
+. Parameter = 32.475410
+
+It is objective language: Have type = strict
+. Popularity = 79.730000
+. Year = 1958
+. Lazy = 1
+. Parameter = 163.166667
+
+It is objective language: Have type = dinamic
+. Popularity = 93.470000
+. Year = 1957
+. Lazy = 1
+. Parameter = 19.570000
+
+It is objective language: Have type = strict
+. Popularity = 25.330000
+. Year = 1969
+. Lazy = 3
+. Parameter = 20.946809
+
+It is objective language: Have type = dinamic
+. Popularity = 11.550000
+. Year = 1940
+. Lazy = 0
+. Parameter = 66.896552
+
+It is objective language: Have type = strict
+. Popularity = 51.840000
+. Year = 1932
+. Lazy = 0
+. Parameter = 22.206897
+
+It is objective language: Have type = strict
+. Popularity = 88.430000
+. Year = 1964
+. Lazy = 0
+. Parameter = 109.111111
+
+It is objective language: Have type = many
+. Popularity = 46.290000
+. Year = 1989
+. Parameter = 39.780000
+
+It is objective language: Have type = strict
+. Popularity = 13.110000
+. Year = 2021
+. Lazy = 1
+. Parameter = 29.720588
+
+It is objective language: Have type = strict
+. Popularity = 42.210000
+. Year = 1909
+. Lazy = 1
+. Parameter = 119.312500
+
+It is objective language: Have type = dinamic
+. Popularity = 64.990000
+. Year = 1949
+. Lazy = 1
+. Parameter = 20.734043
+
+It is Procedure language: Have abstract type 0
+. Popularity = 94.590000
+. Year = 1945
+. Parameter = 67.068966
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 91.400000
+. Year = 1940
+. Parameter = 62.580645
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 63.610000
+. Year = 1953
+. Parameter = 217.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 2
+. Popularity = 10.930000
+. Year = 1908
+. Parameter = 40.595745
+It is Procedure language: Have abstract type 1
+. Popularity = 50.510000
+. Year = 1947
+. Parameter = 45.279070
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 32.960000
+. Year = 1935
+. Parameter = 21.741573
+It is objective language: Have type = strict
+. Popularity = 5.560000
+. Year = 1964
+. Lazy = 0
+. Parameter = 130.933333
+
+It is objective language: Have type = strict
+. Popularity = 73.210000
+. Year = 1914
+. Lazy = 1
+. Parameter = 34.178571
+
+It is objective language: Have type = many
+. Popularity = 36.510000
+. Year = 1975
+. Parameter = 61.718750
+
+It is Procedure language: Have abstract type 0
+. Popularity = 89.710000
+. Year = 1907
+. Parameter = 45.404762
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 87.740000
+. Year = 1954
+. Parameter = 150.307692
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 61.530000
+. Year = 1979
+. Parameter = 21.510870
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 85.820000
+. Year = 1992
+. Parameter = 33.200000
+
+It is objective language: Have type = dinamic
+. Popularity = 61.670000
+. Year = 1957
+. Lazy = 1
+. Parameter = 279.571429
+
+It is objective language: Have type = strict
+. Popularity = 94.400000
+. Year = 1977
+. Lazy = 3
+. Parameter = 494.250000
+
+It is objective language: Have type = strict
+. Popularity = 6.510000
+. Year = 1979
+. Lazy = 1
+. Parameter = 73.296296
+
+It is objective language: Have type = strict
+. Popularity = 39.080000
+. Year = 1913
+. Lazy = 0
+. Parameter = 39.040816
+
+It is objective language: Have type = strict
+. Popularity = 33.640000
+. Year = 1940
+. Lazy = 0
+. Parameter = 38.039216
+
+It is objective language: Have type = dinamic
+. Popularity = 44.350000
+. Year = 1984
+. Lazy = 1
+. Parameter = 62.000000
+
+It is objective language: Have type = strict
+. Popularity = 74.920000
+. Year = 1984
+. Lazy = 1
+. Parameter = 82.666667
+
+It is objective language: Have type = dinamic
+. Popularity = 59.400000
+. Year = 1915
+. Lazy = 1
+. Parameter = 45.595238
+
+It is Procedure language: Have abstract type 0
+. Popularity = 93.810000
+. Year = 1932
+. Parameter = 386.400000
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 73.880000
+. Year = 1943
+. Parameter = 114.294118
+
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 51.480000
+. Year = 1948
+. Parameter = 97.400000
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 74.580000
+. Year = 1968
+. Parameter = 246.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 42.890000
+. Year = 1962
+. Parameter = 24.525000
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 37.270000
+. Year = 2000
+. Parameter = 23.809524
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 2.990000
+. Year = 1911
+. Parameter = 112.411765
+It is Procedure language: Have abstract type 0
+. Popularity = 87.090000
+. Year = 2008
+. Parameter = 1004.000000
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = many
+. Popularity = 28.600000
+. Year = 2011
+. Parameter = 34.672414
+
+It is objective language: Have type = strict
+. Popularity = 33.710000
+. Year = 1941
+. Lazy = 0
+. Parameter = 32.898305
+
+It is objective language: Have type = strict
+. Popularity = 52.510000
+. Year = 1921
+. Lazy = 0
+. Parameter = 25.959459
+
+It is objective language: Have type = dinamic
+. Popularity = 72.450000
+. Year = 2020
+. Lazy = 1
+. Parameter = 74.814815
+
+It is objective language: Have type = dinamic
+. Popularity = 19.590000
+. Year = 1968
+. Lazy = 0
+. Parameter = 20.500000
+
+It is objective language: Have type = strict
+. Popularity = 72.870000
+. Year = 1971
+. Lazy = 1
+. Parameter = 33.406780
+
+It is objective language: Have type = strict
+. Popularity = 17.650000
+. Year = 1945
+. Lazy = 0
+. Parameter = 67.068966
+
+It is objective language: Have type = strict
+. Popularity = 79.740000
+. Year = 1949
+. Lazy = 0
+. Parameter = 22.929412
+
+It is objective language: Have type = strict
+. Popularity = 97.590000
+. Year = 1948
+. Lazy = 0
+. Parameter = 121.750000
+
+It is objective language: Have type = one
+. Popularity = 30.870000
+. Year = 1949
+. Parameter = 67.206897
+
+It is Procedure language: Have abstract type 1
+. Popularity = 94.710000
+. Year = 1967
+. Parameter = 22.352273
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 4.210000
+. Year = 1969
+. Parameter = 35.800000
+
+It is Procedure language: Have abstract type 0
+. Popularity = 38.890000
+. Year = 1912
+. Parameter = 28.969697
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 86.230000
+. Year = 1914
+. Parameter = 42.533333
+It is objective language: Have type = strict
+. Popularity = 11.380000
+. Year = 1997
+. Lazy = 0
+. Parameter = 90.772727
+
+It is objective language: Have type = strict
+. Popularity = 51.690000
+. Year = 1994
+. Lazy = 0
+. Parameter = 71.214286
+
+It is objective language: Have type = strict
+. Popularity = 28.130000
+. Year = 1952
+. Lazy = 0
+. Parameter = 22.181818
+
+It is Procedure language: Have abstract type 0
+. Popularity = 78.100000
+. Year = 1971
+. Parameter = 89.590909
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 80.560000
+. Year = 2005
+. Parameter = 26.733333
+It is objective language: Have type = dinamic
+. Popularity = 75.560000
+. Year = 1980
+. Lazy = 1
+. Parameter = 24.750000
+
+It is objective language: Have type = dinamic
+. Popularity = 32.930000
+. Year = 1977
+. Lazy = 1
+. Parameter = 1977.000000
+
+It is objective language: Have type = strict
+. Popularity = 10.680000
+. Year = 1991
+. Lazy = 3
+. Parameter = 398.200000
+
+It is objective language: Have type = dinamic
+. Popularity = 40.570000
+. Year = 2012
+. Lazy = 1
+. Parameter = 20.323232
+
+It is objective language: Have type = strict
+. Popularity = 63.730000
+. Year = 1908
+. Lazy = 0
+. Parameter = 28.058824
+
+It is objective language: Have type = dinamic
+. Popularity = 98.010000
+. Year = 1947
+. Lazy = 0
+. Parameter = 36.735849
+
+It is objective language: Have type = dinamic
+. Popularity = 2.690000
+. Year = 2021
+. Lazy = 1
+. Parameter = 91.863636
+
+It is objective language: Have type = dinamic
+. Popularity = 23.420000
+. Year = 1953
+. Lazy = 1
+. Parameter = 27.507042
+
+It is objective language: Have type = strict
+. Popularity = 58.580000
+. Year = 1914
+. Lazy = 2
+. Parameter = 31.377049
+
+It is objective language: Have type = strict
+. Popularity = 77.980000
+. Year = 1940
+. Lazy = 0
+. Parameter = 23.095238
+
+It is objective language: Have type = dinamic
+. Popularity = 33.230000
+. Year = 1936
+. Lazy = 1
+. Parameter = 31.225806
+
+It is objective language: Have type = strict
+. Popularity = 43.440000
+. Year = 1942
+. Lazy = 0
+. Parameter = 176.545455
+
+It is objective language: Have type = dinamic
+. Popularity = 66.160000
+. Year = 1923
+. Lazy = 0
+. Parameter = 101.210526
+
+It is objective language: Have type = strict
+. Popularity = 77.920000
+. Year = 1938
+. Lazy = 2
+. Parameter = 34.000000
+
+It is objective language: Have type = dinamic
+. Popularity = 18.330000
+. Year = 2017
+. Lazy = 0
+. Parameter = 65.064516
+
+It is objective language: Have type = strict
+. Popularity = 73.180000
+. Year = 1990
+. Lazy = 0
+. Parameter = 19.900000
+
+It is objective language: Have type = strict
+. Popularity = 72.910000
+. Year = 1999
+. Lazy = 1
+. Parameter = 38.442308
+
+It is objective language: Have type = dinamic
+. Popularity = 10.740000
+. Year = 2014
+. Lazy = 1
+. Parameter = 39.490196
+
+It is objective language: Have type = dinamic
+. Popularity = 35.970000
+. Year = 2012
+. Lazy = 2
+. Parameter = 27.189189
+
+It is objective language: Have type = dinamic
+. Popularity = 72.300000
+. Year = 1967
+. Lazy = 1
+. Parameter = 327.833333
+
+It is objective language: Have type = strict
+. Popularity = 88.780000
+. Year = 1926
+. Lazy = 3
+. Parameter = 24.692308
+
+It is objective language: Have type = dinamic
+. Popularity = 51.530000
+. Year = 1944
+. Lazy = 1
+. Parameter = 36.679245
+
+It is Procedure language: Have abstract type 0
+. Popularity = 24.490000
+. Year = 1993
+. Parameter = 24.604938
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 54.030000
+. Year = 1935
+. Parameter = 42.065217
+
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 93.860000
+. Year = 2014
+. Parameter = 71.928571
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = one
+. Popularity = 83.190000
+. Year = 1942
+. Parameter = 37.346154
+
+It is objective language: Have type = interface
+. Popularity = 95.120000
+. Year = 1922
+. Parameter = 46.878049
+
+It is Procedure language: Have abstract type 1
+. Popularity = 87.940000
+. Year = 1972
+. Parameter = 89.636364
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 27.080000
+. Year = 1954
+. Parameter = 20.787234
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = interface
+. Popularity = 5.320000
+. Year = 1937
+. Parameter = 149.000000
+
+It is objective language: Have type = strict
+. Popularity = 98.010000
+. Year = 1968
+. Lazy = 0
+. Parameter = 140.571429
+
+It is objective language: Have type = dinamic
+. Popularity = 38.230000
+. Year = 1934
+. Lazy = 1
+. Parameter = 32.233333
+
+It is objective language: Have type = strict
+. Popularity = 41.280000
+. Year = 1918
+. Lazy = 0
+. Parameter = 22.564706
+
+It is objective language: Have type = strict
+. Popularity = 14.710000
+. Year = 1998
+. Lazy = 1
+. Parameter = 33.864407
+
+It is Procedure language: Have abstract type 0
+. Popularity = 52.620000
+. Year = 1909
+. Parameter = 28.073529
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+
+It is objective language: Have type = many
+. Popularity = 10.780000
+. Year = 1932
+. Parameter = 20.553191
+
+It is objective language: Have type = one
+. Popularity = 50.160000
+. Year = 1960
+. Parameter = 42.608696
+
+It is Procedure language: Have abstract type 1
+. Popularity = 66.740000
+. Year = 1980
+. Parameter = 52.105263
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 96.900000
+. Year = 1989
+. Parameter = 142.071429
+It is objective language: Have type = strict
+. Popularity = 83.510000
+. Year = 1980
+. Lazy = 1
+. Parameter = 37.358491
+
+It is objective language: Have type = strict
+. Popularity = 88.540000
+. Year = 1978
+. Lazy = 1
+. Parameter = 23.547619
+
+It is objective language: Have type = strict
+. Popularity = 62.390000
+. Year = 2004
+. Lazy = 0
+. Parameter = 21.782609
+
+It is objective language: Have type = dinamic
+. Popularity = 95.220000
+. Year = 1994
+. Lazy = 0
+. Parameter = 39.098039
+
+It is objective language: Have type = strict
+. Popularity = 16.570000
+. Year = 2000
+. Lazy = 3
+. Parameter = 200.000000
+
+It is objective language: Have type = dinamic
+. Popularity = 97.420000
+. Year = 1934
+. Lazy = 1
+. Parameter = 41.148936
+
+It is objective language: Have type = strict
+. Popularity = 4.620000
+. Year = 1985
+. Lazy = 0
+. Parameter = 50.897436
+
+It is objective language: Have type = strict
+. Popularity = 42.530000
+. Year = 1912
+. Lazy = 1
+. Parameter = 47.800000
+
+It is objective language: Have type = strict
+. Popularity = 28.650000
+. Year = 1927
+. Lazy = 1
+. Parameter = 35.036364
+
+It is objective language: Have type = dinamic
+. Popularity = 10.910000
+. Year = 1918
+. Lazy = 1
+. Parameter = 112.823529
+
+It is objective language: Have type = strict
+. Popularity = 35.010000
+. Year = 1918
+. Lazy = 1
+. Parameter = 23.390244
+
+It is objective language: Have type = strict
+. Popularity = 11.830000
+. Year = 1925
+. Lazy = 1
+. Parameter = 43.750000
+
+It is objective language: Have type = strict
+. Popularity = 16.960000
+. Year = 2012
+. Lazy = 0
+. Parameter = 27.189189
+
+It is objective language: Have type = strict
+. Popularity = 96.400000
+. Year = 1951
+. Lazy = 1
+. Parameter = 19.707071
+
+It is objective language: Have type = strict
+. Popularity = 40.360000
+. Year = 1980
+. Lazy = 0
+. Parameter = 23.023256
+
+It is objective language: Have type = strict
+. Popularity = 75.450000
+. Year = 1917
+. Lazy = 0
+. Parameter = 59.906250
+
+It is objective language: Have type = strict
+. Popularity = 72.810000
+. Year = 2017
+. Lazy = 1
+. Parameter = 80.680000
+
+It is objective language: Have type = strict
+. Popularity = 45.660000
+. Year = 1955
+. Lazy = 0
+. Parameter = 81.458333
+
+It is objective language: Have type = dinamic
+. Popularity = 1.270000
+. Year = 1954
+. Lazy = 1
+. Parameter = 28.735294
+
+It is objective language: Have type = strict
+. Popularity = 22.070000
+. Year = 1933
+. Lazy = 2
+. Parameter = 29.287879
+
+It is objective language: Have type = dinamic
+. Popularity = 50.220000
+. Year = 1974
+. Lazy = 1
+. Parameter = 78.960000
+
+It is objective language: Have type = dinamic
+. Popularity = 24.440000
+. Year = 1909
+. Lazy = 1
+. Parameter = 272.714286
+
+It is objective language: Have type = dinamic
+. Popularity = 14.550000
+. Year = 1952
+. Lazy = 2
+. Parameter = 67.310345
+
+It is objective language: Have type = dinamic
+. Popularity = 94.660000
+. Year = 1989
+. Lazy = 2
+. Parameter = 79.560000
+
+It is objective language: Have type = strict
+. Popularity = 33.340000
+. Year = 1991
+. Lazy = 2
+. Parameter = 25.525641
+
+It is objective language: Have type = strict
+. Popularity = 12.150000
+. Year = 1940
+. Lazy = 1
+. Parameter = 28.115942
+
+It is objective language: Have type = strict
+. Popularity = 35.910000
+. Year = 1979
+. Lazy = 0
+. Parameter = 21.747253
+
+It is Procedure language: Have abstract type 0
+. Popularity = 56.060000
+. Year = 1924
+. Parameter = 20.468085
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 42.540000
+. Year = 1978
+. Parameter = 58.176471
+It is Procedure language: Have abstract type 0
+. Popularity = 84.740000
+. Year = 1955
+. Parameter = 115.000000
+It is Procedure language: Have abstract type 0
+. Popularity = 0.000000
+. Year = 0
+. Parameter = 0.000000
+It is Procedure language: Have abstract type 1
+. Popularity = 87.430000
+. Year = 1936
+. Parameter = 20.817204
+It is objective language: Have type = interface
+. Popularity = 61.020000
+. Year = 1972
+. Parameter = 36.518519
+
+It is objective language: Have type = strict
+. Popularity = 59.110000
+. Year = 1939
+. Lazy = 1
+. Parameter = 44.068182
+
+It is objective language: Have type = dinamic
+. Popularity = 41.350000
+. Year = 1961
+. Lazy = 1
+. Parameter = 28.838235
+
+It is objective language: Have type = dinamic
+. Popularity = 49.670000
+. Year = 1911
+. Lazy = 1
+. Parameter = 23.024096
+
+It is objective language: Have type = strict
+. Popularity = 0.620000
+. Year = 1906
+. Lazy = 1
+. Parameter = 25.413333
+
+It is objective language: Have type = strict
+. Popularity = 19.800000
+. Year = 1944
+. Lazy = 1
+. Parameter = 49.846154
+
+It is objective language: Have type = dinamic
+. Popularity = 4.970000
+. Year = 1998
+. Lazy = 0
+. Parameter = 117.529412
+
+It is objective language: Have type = dinamic
+. Popularity = 30.190000
+. Year = 1955
+. Lazy = 2
+. Parameter = 29.621212
+
+It is objective language: Have type = strict
+. Popularity = 32.880000
+. Year = 1980
+. Lazy = 3
+. Parameter = 56.571429
+
+It is objective language: Have type = strict
+. Popularity = 79.230000
+. Year = 2020
+. Lazy = 1
+. Parameter = 43.913043
+
+It is objective language: Have type = dinamic
+. Popularity = 23.870000
+. Year = 1942
+. Lazy = 1
+. Parameter = 26.243243
+
+It is objective language: Have type = strict
+. Popularity = 54.830000
+. Year = 1965
+. Lazy = 2
+. Parameter = 25.855263
+
+It is objective language: Have type = dinamic
+. Popularity = 87.110000
+. Year = 2008
+. Lazy = 1
+. Parameter = 286.857143
+
+It is objective language: Have type = strict
+. Popularity = 83.500000
+. Year = 1924
+. Lazy = 3
+. Parameter = 53.444444
+
+It is objective language: Have type = strict
+. Popularity = 32.610000
+. Year = 2006
+. Lazy = 0
+. Parameter = 80.240000
+
+It is objective language: Have type = dinamic
+. Popularity = 47.530000
+. Year = 1929
+. Lazy = 1
+. Parameter = 23.524390
+
+It is objective language: Have type = one
+. Popularity = 47.290000
+. Year = 1985
+. Parameter = 86.304348
+
+It is objective language: Have type = one
+. Popularity = 0.000000
+. Year = 0
+. Parameter = -nan
